@@ -1,0 +1,1308 @@
+{
+  "Alert": {
+    "AppUpdateAvailable": {
+      "Title": {
+        "key": "Alert_AppUpdateAvailable_Title",
+        "default": "xBrowserSync-uppdatering tillgänglig"
+      },
+      "Message": {
+        "key": "Alert_AppUpdateAvailable_Message",
+        "default": "{version} är tillgänglig för nedladdning. Klicka för mer information.",
+        "android": "xBrowserSync {version} finns tillgänglig för nedladdning."
+      }
+    },
+    "AppUpdated": {
+      "Title": {
+        "key": "Alert_AppUpdated_Title",
+        "default": "Uppdaterad till"
+      },
+      "Message": {
+        "key": "Alert_AppUpdated_Message",
+        "default": "xBrowserSync har uppdaterats. Synkroniseringen har inaktiverats, återaktivera synkroniseringen för att slutföra uppgraderingsprocessen."
+      }
+    },
+    "BookmarkCreated": {
+      "key": "Alert_BookmarkCreated",
+      "default": "Bokmärke skapat"
+    },
+    "BookmarkDeleted": {
+      "key": "Alert_BookmarkDeleted",
+      "default": "Bokmärke raderat"
+    },
+    "BookmarkUpdated": {
+      "key": "Alert_BookmarkUpdated",
+      "default": "Bokmärke uppdaterat"
+    },
+    "GetMetadata": {
+      "Message": {
+        "key": "Alert_GetMetadata_Message",
+        "default": "Hämtar bokmärkesegenskaper, tryck för att avbryta."
+      },
+      "Success": {
+        "key": "Alert_GetMetadata_Success",
+        "default": "Bokmärkesegenskaper uppdaterade."
+      }
+    },
+    "Go": {
+      "key": "Alert_Go",
+      "default": "Gå"
+    },
+    "WorkingOffline": {
+      "Title": {
+        "key": "Alert_WorkingOffline_Title",
+        "default": "Arbetar offline"
+      },
+      "Message": {
+        "key": "Alert_WorkingOffline_Message",
+        "default": "Ändringar kommer att synkroniseras när anslutningen är återställd."
+      }
+    }
+  },
+  "App": {
+    "Description": {
+      "key": "App_Description",
+      "default": "Webbläsarsynkronisering som den borde vara: säker, anonym och gratis! Synkronisera bokmärken över alla dina webbläsare och enheter, ingen registrering krävs."
+    },
+    "Title": {
+      "key": "App_Title",
+      "default": "xBrowserSync"
+    }
+  },
+  "Bookmarks": {
+    "Container": {
+      "Menu": {
+        "key": "Bookmarks_Container_Menu",
+        "default": "Bokmärkesmeny"
+      },
+      "Mobile": {
+        "key": "Bookmarks_Container_Mobile",
+        "default": "Mobila bokmärken"
+      },
+      "Other": {
+        "key": "Bookmarks_Container_Other",
+        "default": "Andra bokmärken"
+      },
+      "Toolbar": {
+        "key": "Bookmarks_Container_Toolbar",
+        "default": "Bokmärkesfältet"
+      }
+    }
+  },
+  "Button": {
+    "AddBookmark": {
+      "key": "Button_AddBookmark",
+      "default": "Lägg till bokmärke"
+    },
+    "Back": {
+      "key": "Button_Back",
+      "default": "Tillbaka"
+    },
+    "Cancel": {
+      "key": "Button_Cancel",
+      "default": "Avbryt"
+    },
+    "Close": {
+      "key": "Button_Close",
+      "default": "Stäng"
+    },
+    "Confirm": {
+      "key": "Button_Confirm",
+      "default": "Ja"
+    },
+    "Continue": {
+      "key": "Button_Continue",
+      "default": "Fortsätt"
+    },
+    "DeleteBookmark": {
+      "key": "Button_DeleteBookmark",
+      "default": "Radera bokmärke"
+    },
+    "Deny": {
+      "key": "Button_Deny",
+      "default": "Nej"
+    },
+    "Done": {
+      "key": "Button_Done",
+      "default": "Klar"
+    },
+    "DownloadBackup": {
+      "key": "Button_DownloadBackup",
+      "default": "Ladda ner säkerhetskopia"
+    },
+    "EditBookmark": {
+      "key": "Button_EditBookmark",
+      "default": "Redigera bokmärke"
+    },
+    "Help": {
+      "key": "Button_Help",
+      "default": "Visa hjälpguide"
+    },
+    "Next": {
+      "key": "Button_Next",
+      "default": "Nästa"
+    },
+    "OK": {
+      "key": "Button_OK",
+      "default": "OK"
+    },
+    "ReleaseNotes": {
+      "key": "Button_ReleaseNotes",
+      "default": "Visa versionsinformation"
+    },
+    "Saving": {
+      "key": "Button_Saving",
+      "default": "Sparar"
+    },
+    "Settings": {
+      "key": "Button_Settings",
+      "default": "Inställningar"
+    },
+    "ShareBookmark": {
+      "key": "Button_ShareBookmark",
+      "default": "Dela bokmärke"
+    },
+    "Undo": {
+      "key": "Button_Undo",
+      "default": "Ångra"
+    },
+    "Update": {
+      "key": "Button_Update",
+      "default": "Uppdatera"
+    },
+    "View": {
+      "key": "Button_View",
+      "default": "Visa"
+    }
+  },
+  "Exception": {
+    "ContainerChanged_Message": {
+      "key": "Exception_ContainerChanged_Message",
+      "default": "Vänligen undvik att ändra [xbs]-mappar eftersom det kan orsaka synkroniseringsproblem."
+    },
+    "ContainerChanged_Title": {
+      "key": "Exception_ContainerChanged_Title",
+      "default": "xBrowserSync-mappen ändrad"
+    },
+    "DailyNewSyncLimitReached_Message": {
+      "key": "Exception_DailyNewSyncLimitReached_Message",
+      "default": "Synkronisera till ett befintligt synkroniserings-ID, byt till en annan tjänst eller försök igen imorgon."
+    },
+    "DailyNewSyncLimitReached_Title": {
+      "key": "Exception_DailyNewSyncLimitReached_Title",
+      "default": "Daglig gräns för ny synkronisering har uppnåtts"
+    },
+    "Default_Message": {
+      "key": "Exception_Default_Message",
+      "default": "Om problemet kvarstår, vänligen <a href='https://link.xbrowsersync.org/app-issues' class='new-tab'>rapportera problemet</a>."
+    },
+    "Default_Title": {
+      "key": "Exception_Default_Title",
+      "default": "Något gick fel"
+    },
+    "FailedDownloadFile_Title": {
+      "key": "Exception_FailedDownloadFile_Title",
+      "default": "Säkerhetskopiering misslyckades"
+    },
+    "FailedGetDataToRestore_Title": {
+      "key": "Exception_FailedGetDataToRestore_Title",
+      "default": "Bläddring bland filer misslyckades"
+    },
+    "FailedGetPageMetadata_Message": {
+      "key": "Exception_FailedGetPageMetadata_Message",
+      "default": "Webbadressen är ogiltig eller webbsidedata kunde inte hämtas."
+    },
+    "FailedGetPageMetadata_Title": {
+      "key": "Exception_FailedGetPageMetadata_Title",
+      "default": "Kunde inte hämta bokmärkesegenskaper"
+    },
+    "FailedRefreshBookmarks_Title": {
+      "key": "Exception_FailedRefreshBookmarks_Title",
+      "default": "Kunde inte hämta uppdateringar"
+    },
+    "FailedRestoreData_Message": {
+      "key": "Exception_FailedRestoreData_Message",
+      "default": "Den säkerhetskopierade datan som tillhandahållits är inte i ett förväntat format."
+    },
+    "FailedRestoreData_Title": {
+      "key": "Exception_FailedRestoreData_Title",
+      "default": "Kunde inte återställa data"
+    },
+    "FailedShareUrlNotSynced_Title": {
+      "key": "Exception_FailedShareUrlNotSynced_Title",
+      "default": "Du måste vara synkroniserad för att lägga till ett bokmärke"
+    },
+    "FailedShareUrl_Title": {
+      "key": "Exception_FailedShareUrl_Title",
+      "default": "Kunde inte hämta delad bokmärkeswebbadress"
+    },
+    "HttpRequestFailed_Message": {
+      "key": "Exception_HttpRequestFailed_Message",
+      "default": "Kontrollera din nätverksanslutning och försök igen."
+    },
+    "HttpRequestFailed_Title": {
+      "key": "Exception_HttpRequestFailed_Title",
+      "default": "Anslutning till tjänsten förlorad"
+    },
+    "InvalidCredentials_Message": {
+      "key": "Exception_InvalidCredentials_Message",
+      "default": "Kontrollera att ditt synknings-ID, lösenord och tjänstens webbadress har angetts korrekt."
+    },
+    "InvalidCredentials_Title": {
+      "key": "Exception_InvalidCredentials_Title",
+      "default": "Ogiltiga inloggningsuppgifter"
+    },
+    "InvalidService_Message": {
+      "key": "Exception_InvalidService_Message",
+      "default": "Tjänstens webbadress är inte en giltig xBrowserSync-tjänst."
+    },
+    "InvalidService_Title": {
+      "key": "Exception_InvalidService_Title",
+      "default": "Ogiltig xBrowserSync-tjänst"
+    },
+    "LocalContainerNotFound_Message": {
+      "key": "Exception_LocalContainerNotFound_Message",
+      "default": "Möjlig korrupt webbläsarprofil, försök att skapa en ny profil eftersom det kan lösa problemet."
+    },
+    "LocalContainerNotFound_Title": {
+      "key": "Exception_LocalContainerNotFound_Title",
+      "default": "Oväntad bokmärkesstruktur"
+    },
+    "LocalSyncError_Message": {
+      "key": "Exception_LocalSyncError_Message",
+      "default": "Lokal webbläsardata har uppdaterats, vänligen verkställ senaste ändring igen."
+    },
+    "LocalSyncError_Title": {
+      "key": "Exception_LocalSyncError_Title",
+      "default": "Synkroniseringsfel"
+    },
+    "MissingClientData_Message": {
+      "key": "Exception_MissingClientData_Message",
+      "default": "Kunde inte hitta sparade inloggningsuppgifter. Återaktivera synkronisering och försök igen."
+    },
+    "MissingClientData_Title": {
+      "key": "Exception_MissingClientData_Title",
+      "default": "Saknar inloggningsuppgifter"
+    },
+    "NoDataToRestore_Message": {
+      "key": "Exception_NoDataToRestore_Message",
+      "default": "Se till att du har angett en giltig xBrowserSync-säkerhetskopiering innan du återställer."
+    },
+    "NoDataToRestore_Title": {
+      "key": "Exception_NoDataToRestore_Title",
+      "default": "Ingen data att återställa"
+    },
+    "NotAcceptingNewSyncs_Message": {
+      "key": "Exception_NotAcceptingNewSyncs_Message",
+      "default": "Byt till en annan tjänst eller försök igen senare."
+    },
+    "NotAcceptingNewSyncs_Title": {
+      "key": "Exception_NotAcceptingNewSyncs_Title",
+      "default": "Tjänsten accepterar inte nya synkroniseringar"
+    },
+    "OutOfSync_Message": {
+      "key": "Exception_OutOfSync_Message",
+      "default": "Lokal data var inte synkroniserad och har nu uppdaterats. Vänligen verkställ senaste ändring igen."
+    },
+    "OutOfSync_Title": {
+      "key": "Exception_OutOfSync_Title",
+      "default": "Synkroniseringskonflikt upptäckt"
+    },
+    "RequestEntityTooLarge_Message": {
+      "key": "Exception_RequestEntityTooLarge_Message",
+      "default": "Radera några bokmärken och försök igen eller byt till en tjänst med en större synkroniseringsgräns."
+    },
+    "RequestEntityTooLarge_Title": {
+      "key": "Exception_RequestEntityTooLarge_Title",
+      "default": "Gränsen för synkroniseringsdata överskriden"
+    },
+    "ScanFailed_Message": {
+      "key": "Exception_ScanFailed_Message",
+      "default": "Kontrollera att behörighet har beviljats och försök igen."
+    },
+    "ScanFailed_Title": {
+      "key": "Exception_ScanFailed_Title",
+      "default": "Skanning misslyckades"
+    },
+    "ServiceOffline_Message": {
+      "key": "Exception_ServiceOffline_Message",
+      "default": "xBrowserSync-tjänsten är för närvarande offline, försök igen senare."
+    },
+    "ServiceOffline_Title": {
+      "key": "Exception_ServiceOffline_Title",
+      "default": "Tjänsten offline"
+    },
+    "ShareFailed_Title": {
+      "key": "Exception_ShareFailed_Title",
+      "default": "Delning misslyckades"
+    },
+    "SyncRemoved_Message": {
+      "key": "Exception_SyncRemoved_Message",
+      "default": "Den efterfrågade synkroniseringen finns inte, den kan ha tagits bort på grund av inaktivitet."
+    },
+    "SyncRemoved_Title": {
+      "key": "Exception_SyncRemoved_Title",
+      "default": "Synkronisering hittades inte"
+    },
+    "SyncVersionNotSupported_Message": {
+      "key": "Exception_SyncVersionNotSupported_Message",
+      "default": "Detta ID kan inte synkroniseras med denna version av xBrowserSync eftersom synkroniseringen har uppgraderats till en senare version."
+    },
+    "SyncVersionNotSupported_Restore_Message": {
+      "key": "Exception_SyncVersionNotSupported_Restore_Message",
+      "default": "Säkerhetskopieringsdatan kan inte återställas av denna version av xBrowserSync eftersom den skapades med en senare version."
+    },
+    "SyncVersionNotSupported_Title": {
+      "key": "Exception_SyncVersionNotSupported_Title",
+      "default": "Synkroniseringsversionen stöds inte"
+    },
+    "TooManyRequests_Message": {
+      "key": "Exception_TooManyRequests_Message",
+      "default": "Synkroniseringen har inaktiverats, återaktivera synkroniseringen för att återuppta synkroniseringen."
+    },
+    "TooManyRequests_Title": {
+      "key": "Exception_TooManyRequests_Title",
+      "default": "Gränsen uppnådd för tjänstebegäran"
+    },
+    "UncommittedSyncs_Message": {
+      "key": "Exception_UncommittedSyncs_Message",
+      "default": "Synkronisering kommer att göras när anslutningen till tjänsten har återställts."
+    },
+    "UncommittedSyncs_Title": {
+      "key": "Exception_UncommittedSyncs_Title",
+      "default": "Ändringar inte synkroniserade"
+    },
+    "UnsupportedServiceApiVersion_Message": {
+      "key": "Exception_UnsupportedServiceApiVersion_Message",
+      "default": "Denna tjänst kör en API-version som inte stöds."
+    },
+    "UnsupportedServiceApiVersion_Title": {
+      "key": "Exception_UnsupportedServiceApiVersion_Title",
+      "default": "Tjänsten stöds inte"
+    },
+    "UpgradeFailed_Message": {
+      "key": "Exception_UpgradeFailed_Message",
+      "android": "Uppgradering försöks på nytt vid omstart av appen. Om problemet kvarstår, installera om xBrowserSync.",
+      "default": "Starta om din webbläsare för att försöka uppgradera igen. Om problemet kvarstår, installera om xBrowserSync."
+    },
+    "UpgradeFailed_Title": {
+      "key": "Exception_UpgradeFailed_Title",
+      "default": "Uppgradering misslyckades"
+    }
+  },
+  "Service": {
+    "Status": {
+      "Error": {
+        "key": "Service_Status_Error",
+        "default": "Anslutningsfel"
+      },
+      "Loading": {
+        "key": "Service_Status_Loading",
+        "default": "Kontrollerar"
+      },
+      "NoNewSyncs": {
+        "key": "Service_Status_NoNewSyncs",
+        "default": "Accepterar inte nya synkroniseringar"
+      },
+      "Offline": {
+        "key": "Service_Status_Offline",
+        "default": "Offline"
+      },
+      "Online": {
+        "key": "Service_Status_Online",
+        "default": "Online"
+      }
+    }
+  },
+  "Tooltip": {
+    "NotSynced": {
+      "key": "Tooltip_NotSynced",
+      "default": "ej synkroniserad"
+    },
+    "Synced": {
+      "key": "Tooltip_Synced",
+      "default": "synkroniserad"
+    },
+    "Syncing": {
+      "key": "Tooltip_Syncing",
+      "default": "synkroniserar"
+    }
+  },
+  "View": {
+    "Bookmark": {
+      "Add": {
+        "key": "View_Bookmark_Add",
+        "default": "Lägg till bokmärke"
+      },
+      "Edit": {
+        "key": "View_Bookmark_Edit",
+        "default": "Redigera bokmärke"
+      },
+      "Form": {
+        "Title": {
+          "key": "View_Bookmark_Form_Title",
+          "default": "Titel"
+        },
+        "Url": {
+          "Exists": {
+            "key": "View_Bookmark_Form_Url_Exists",
+            "default": "Webbadressen har redan bokmärkts"
+          },
+          "Invalid": {
+            "key": "View_Bookmark_Form_Url_Invalid",
+            "default": "Inte en giltig webbadress"
+          },
+          "Label": {
+            "key": "View_Bookmark_Form_Url_Label",
+            "default": "Webbadress"
+          },
+          "Required": {
+            "key": "View_Bookmark_Form_Url_Required",
+            "default": "Webbadress krävs"
+          }
+        },
+        "Description": {
+          "key": "View_Bookmark_Form_Description",
+          "default": "Beskrivning"
+        },
+        "Tags": {
+          "Label": {
+            "key": "View_Bookmark_Form_Tags_Label",
+            "default": "Taggar"
+          },
+          "Placeholder": {
+            "key": "View_Bookmark_Form_Tags_Placeholder",
+            "default": "tagg 1, tagg 2, tagg 3, etc"
+          },
+          "Clear": {
+            "key": "View_Bookmark_Form_Tags_Clear",
+            "default": "Rensa taggar"
+          },
+          "Remove": {
+            "key": "View_Bookmark_Form_Tags_Remove",
+            "default": "Ta bort tagg"
+          }
+        },
+        "Delete": {
+          "key": "View_Bookmark_Form_Delete",
+          "default": "Radera"
+        },
+        "Share": {
+          "key": "View_Bookmark_Form_Share",
+          "default": "Dela"
+        },
+        "UpdateProperties": {
+          "key": "View_Bookmark_Form_UpdateProperties",
+          "default": "Uppdatera bokmärkesegenskaper"
+        }
+      },
+      "InvalidUrlShared": {
+        "key": "View_Bookmark_InvalidUrlShared",
+        "default": "Värdet som delades innehåller inte en giltig webbadress."
+      }
+    },
+    "Help": {
+      "AddingBookmarks": {
+        "key": "View_Help_AddingBookmarks",
+        "default": "<h4>Lägga till ett bokmärke</h4><p>Bokmärk den aktuella sidan genom att klicka på bokmärkesikonen i Sökpanelen. Bokmärkets egenskaper kommer att fyllas i för dig automatiskt, annars kan du lägga till en beskrivning och några taggar för att säkerställa bättre sökresultat.</p><p>Alternativt kan du bara klicka på knappen “Bokmärk denna sida” i webbläsaren som vanligt så kommer xBrowserSync automatiskt att fylla i bokmärkets egenskaper (valfria behörigheter måste beviljas för att detta ska fungera, se panelen Inställningar).</p>",
+        "android": "<h4>Lägga till ett bokmärke</h4><p>Lägg till bokmärken enkelt genom att dela till xBrowserSync från vilka appar som helst som delar webbadresser som exempelvis webbläsare, YouTube, Spotify och många fler.</p><p>Bokmärkets egenskaper kommer att hämtas åt dig, annars kan du lägga till en beskrivning och några taggar för att säkerställa bättre sökresultat.</p>"
+      },
+      "BackingUp": {
+        "key": "View_Help_BackingUp",
+        "default": "<h4>Kom ihåg att säkerhetskopiera</h4><p>Din data är ditt ansvar när du använder xBrowserSync så var smart och se till att ta säkerhetskopior.</p><p>Gå till panelen Inställningar och säkerhetskopiera din okrypterade data till en lokal fil som kan användas för att återställa din data om du skulle behöva.</p><p>Om din lokala webbläsardata blir skadad och du inte har några säkerhetskopior, kan du när som helst återställa din data till sitt ursprungliga tillstånd från när xBrowserSync installerades.</p>",
+        "android": "<h4>Kom ihåg att säkerhetskopiera</h4><p>Din data är ditt ansvar när du använder xBrowserSync så var smart och se till att ta säkerhetskopior.</p><p>Gå till panelen Inställningar och säkerhetskopiera din okrypterade data till en lokal fil som kan användas för att återställa din data om du skulle behöva.</p>"
+      },
+      "BeforeYouBegin": {
+        "key": "View_Help_BeforeYouBegin",
+        "default": "<h4>Innan du börjar</h4><p>xBrowserSync ändrar din lokala webbläsardata så det är en bra idé att säkerhetskopiera dina bokmärken och andra webbläsardata för säkerhetskull, och om du använder andra synkroniseringstjänster eller verktyg för webbläsaren (t.ex. <a href='https://link.xbrowsersync.org/chrome-sync' class='new-tab'>Google Chrome Sync</a>), inaktivera dem för att undvika konflikter.</p>",
+        "brave": "<h4>Innan du börjar</h4><p>xBrowserSync ändrar din lokala webbläsardata så det är en bra idé att säkerhetskopiera dina bokmärken och andra webbläsardata för säkerhetskull, och om du använder andra synkroniseringstjänster eller verktyg för webbläsaren (t.ex. <a href='https://link.xbrowsersync.org/brave-sync' class='new-tab'>Brave Sync</a>), inaktivera dem för att undvika konflikter.</p>",
+        "edge": "<h4>Innan du börjar</h4><p>xBrowserSync ändrar din lokala webbläsardata så det är en bra idé att säkerhetskopiera dina bokmärken och andra webbläsardata för säkerhetskull, och om du använder andra synkroniseringstjänster eller verktyg för webbläsaren (t.ex. <a href='https://link.xbrowsersync.org/edge-sync' class='new-tab'>Microsoft Edge Sync</a>), inaktivera dem för att undvika konflikter.</p>",
+        "firefox": "<h4>Innan du börjar</h4><p>xBrowserSync ändrar din lokala webbläsardata så det är en bra idé att säkerhetskopiera dina bokmärken och andra webbläsardata för säkerhetskull, och om du använder andra synkroniseringstjänster eller verktyg för webbläsaren (t.ex. <a href='https://link.xbrowsersync.org/firefox-sync' class='new-tab'>Firefox Sync</a>), inaktivera dem för att undvika konflikter.</p>"
+      },
+      "ExistingId": {
+        "key": "View_Help_ExistingId",
+        "default": "<h4>Synkronisera med ditt befintliga ID</h4><p>Klicka på ”Har du redan ett synkroniserings-ID?” för att ange ditt befintliga synkroniserings-ID och lösenord. Om ditt synkronisering-ID skapades på en tjänst som skiljer sig från den som visas, byt då till den tjänsten innan du försöker synkronisera.</p><p>xBrowserSync kommer att hämta och avkryptera din krypterade data med ditt lokalt lagrade lösenord, rensa sedan dina lokala bokmärken innan du återfyller dem från den avkrypterade datan.</p><p>När den är synkroniserad kontrollerar xBrowserSync i bakgrunden var 15:e minut efter uppdateringar till din synkroniserade data och uppdaterar dina lokala bokmärken automatiskt när det behövs. Du kan även manuellt synkronisera tillgängliga uppdateringar till din synkroniserade data i panelen Inställningar.</p>",
+        "android": "<h4>Synkronisera med ditt befintliga ID</h4><p>Börja med att skanna synkroniserings-ID QR-koden i panelen Inställningar i xBrowserSync stationära webbläsartillägg (klicka på ditt synkroniserings-ID för att visa det). Kontrollera att du anger samma krypteringslösenord som används när du skapade synkroniseringen annars kommer xBrowserSync inte att kunna avkryptera din data.</p><p>Dessutom, om du är synkroniserad med en annan xBrowserSync-tjänst, kontrollera att det är den tjänsten som konfigurerad som aktiv i panelen Inställningar.</p>"
+      },
+      "FirstSync": {
+        "key": "View_Help_FirstSync",
+        "default": "<h4>Synkronisera för första gången</h4><p>Innan xBrowserSync kan synkronisera din webbläsardata måste du ange ett krypteringslösenord. Tänk på att göra det starkt men också minnesvärt, det finns inga återställningar eller påminnelser så om du glömmer det kommer du inte att kunna komma åt din synkroniserade data.</p><p>Din webbläsardata kommer att krypteras med ditt lösenord och sparas till den aktiva xBrowserSync-tjänsten konfigurerad i panelen Inställningar.</p><p>När du är synkroniserad kommer alla ändringar du gör till dina lokala bokmärken att synkroniseras automatiskt med xBrowserSync.</p>",
+        "android": "<h4>Synkronisering för första gången</h4><p>xBrowserSync synkroniserar aktivt din webbläsardata mellan dina stationära webbläsare (synkronisering till mobila webbläsare stöds inte just nu). Du kan använda denna app för att få tillgång till din synkroniserade data på din mobila Android-enhet.</p><p>Om du inte redan har skapat ett synkroniserings-ID, gå över till din stationära webbläsare och <a href='https://link.xbrowsersync.org/download' class='new-tab'>ladda ned</a> xBrowserSync-tillägget. Så fort du har skapat en synkronisering så kan du använda ditt nya synkroniserings-ID i denna app för att få tillgång till din data.</p>"
+      },
+      "FurtherSupport": {
+        "key": "View_Help_FurtherSupport",
+        "default": "<h4>Ytterligare support</h4><p>Du hittar svaren på de vanligaste frågorna under <a href='https://link.xbrowsersync.org/faqs' class='new-tab'>Vanliga frågor</a>, titta även på aktuella <a href='https://link.xbrowsersync.org/known-issues' class='new-tab'>kända problem</a> för att se om ditt problem är listat där.</p><p>Alternativt kan du använda <a href='https://link.xbrowsersync.org/app-issues' class='new-tab'>ärendehanteraren</a> för att rapportera ett problem eller begära en ny funktion.</p>"
+      },
+      "Mobile": {
+        "key": "View_Help_Mobile",
+        "default": "<h4>Bli mobil</h4><p>Få tillgång till dina synkroniserade bokmärken på språng med Android-appen xBrowserSync, tillgänglig på <a href='https://link.xbrowsersync.org/download-android' class='new-tab'>Google Play</a> store, <a href='https://link.xbrowsersync.org/fdroid' class='new-tab'>F-Droid</a> eller <a href='https://link.xbrowsersync.org/app-releases-latest' class='new-tab'>direktnedladdning</a>.</p>"
+      },
+      "NativeFeatures": {
+        "key": "View_Help_NativeFeatures",
+        "default": "<h4>Inbyggda funktioner som stöds</h4><p>Fortsätt gärna använda webbläsarens inbyggda bokmärkningsfunktioner som bokmärkesfältet och bokmärkeshanteraren, eventuella ändringar du gör kommer att synkroniseras automatiskt i bakgrunden.</p><p>Om du har organiserat dina befintliga bokmärken i mappar, oroa dig inte, xBrowserSync kommer att respektera och upprätthålla din befintliga bokmärkeshierarki.</p>",
+        "firefox": "<h4>Inbyggda funktioner som stöds</h4><p>Fortsätt gärna använda webbläsarens inbyggda bokmärkningsfunktioner som bokmärkesfältet och bokmärkesbibliotek, eventuella ändringar du gör kommer att synkroniseras automatiskt i bakgrunden.</p><p>Om du har organiserat dina befintliga bokmärken i mappar, oroa dig inte, xBrowserSync kommer att respektera och upprätthålla din befintliga bokmärkeshierarki.</p><p>Observera dock, eftersom Firefox bokmärkes-API ännu inte stöder åtkomst till inbyggda bokmärkestaggar, kommer alla befintliga taggar att förloras vid synkronisering och taggar som lagts till via xBrowserSync kommer inte att sparas som inbyggda taggar.</p>"
+      },
+      "Previous": {
+        "key": "View_Help_Previous",
+        "default": "Föregående"
+      },
+      "Searching": {
+        "key": "View_Help_Searching",
+        "default": "<h4>Sök i dina bokmärken</h4><p>Efter synkronisering, tryck helt enkelt på Enter för att visa dina senaste bokmärken eller skriv några sökord eller en webbadress för att söka bland dina bokmärken.</p><p>Växla mellan sökresultat och bokmärkesmappar för att bläddra i hela hierarkin.</p><p>För att redigera eller radera ett bokmärke, håll muspekaren över bokmärket och klickar på den nu synliga redigeringsikonen bredvid bokmärkets titel.</p>",
+        "android": "<h4>Söka i dina bokmärken</h4><p>Efter synkronisering visas dina bokmärken i kronologisk ordning när du öppnar xBrowserSync. Skriv några sökord eller en webbadress i sökrutan för att söka bland dina bokmärken.</p><p>Växla mellan sökresultat och bokmärkesmappar för att bläddra i hela hierarkin.</p><p>Långtryck på ett bokmärke gör att du direkt kan dela, ändra eller radera bokmärket.</p>"
+      },
+      "Service": {
+        "key": "View_Help_Service",
+        "default": "<h4>Synkronisera till en annan tjänst</h4><p>Som standard synkroniseras din data till den <a href='https://link.xbrowsersync.org/api' class='new-tab'>officiella xBrowserSync-tjänsten</a>, men om du vill synkronisera din data till en alternativ xBrowserSync-tjänst så kan du byta den aktiva tjänsten innan du synkroniserar.</p><p>Se listan över tillgängliga <a href='https://link.xbrowsersync.org/service-list' class='new-tab'>offentliga xBrowserSync-tjänster</a> eller <a href='https://link.xbrowsersync.org/api-repo' class='new-tab'>kör din egna tjänst</a>, antingen för privat bruk för ultimat säkerhet och integritet, eller för offentligt bruk så fler människor kan njuta av xBrowserSync.</p><p><strong>Viktigt:</strong> xBrowserSync-tjänster drivs självständigt av volontärer. Tjänsteadministratören tar inget ansvar för din data så kom ihåg att säkerhetskopiera regelbundet.</p>"
+      },
+      "Shortcuts": {
+        "key": "View_Help_Shortcuts",
+        "default": "<h4>Använd genvägar!</h4><p>För att söka i dina bokmärken snabbt, använd standardkortkommandot (Ctrl+Blanksteg) för att aktivera tillägget, tryck sedan på Enter för att visa dina senaste bokmärken eller börja skriva för att söka.</p><p>För att ändra genvägen bläddra till chrome://extensions/shortcuts och uppdatera de tillgängliga genvägarna under xBrowserSync.</p>",
+        "brave": "<h4>Använd genvägar!</h4><p>För att söka i dina bokmärken snabbt, använd standardkortkommandot (Ctrl+Blanksteg) för att aktivera tillägget, tryck sedan på Enter för att visa dina senaste bokmärken eller börja skriva för att söka.</p><p>För att ändra genvägen bläddra till brave://extensions/shortcuts och uppdatera de tillgängliga genvägarna under xBrowserSync.</p>",
+        "edge": "<h4>Använd genvägar!</h4><p>För att söka i dina bokmärken snabbt, använd standardkortkommandot (Ctrl+Blanksteg) för att aktivera tillägget, tryck sedan på Enter för att visa dina senaste bokmärken eller börja skriva för att söka.</p><p>För att ändra genvägen bläddra till edge://extensions/shortcuts och uppdatera de tillgängliga genvägarna under xBrowserSync.</p>",
+        "firefox": "<h4>Använd genvägar!</h4><p>För att söka i dina bokmärken snabbt, använd standardkortkommandot (Ctrl+Blanksteg) för att aktivera tillägget, tryck sedan på Enter för att visa dina senaste bokmärken eller börja skriva för att söka.</p><p>För att ändra genvägen bläddra till about:addons, klicka på “Hantera genvägar för tillägg” i inställningsmenyn och uppdatera de tillgängliga genvägarna under xBrowserSync.</p>"
+      },
+      "SyncId": {
+        "key": "View_Help_SyncId",
+        "default": "<h4>Ditt synkroniserings-ID</h4><p>xBrowserSync garanterar din integritet eftersom inga personuppgifter någonsin samlas in och din webbläsardata krypteras innan den synkroniseras. För att identifiera din synkroniserade data tilldelas du ett anonymt synkroniserings-ID som kan användas tillsammans med ditt lösenord för att synkronisera din data i andra webbläsare och enheter.</p><p>Tänk på att ditt synkroniserings-ID endast fungerar med xBrowserSync-tjänsten som det skapades på. Om du byter till en annan xBrowserSync-tjänst måste du skapa en ny synkronisering eller använda ett befintligt synkroniserings-ID som skapats när du tidigare synkroniserat med den tjänsten.</p><p>När du är synkroniserad kan du visa ditt synkroniserings-ID i panelen Inställningar, klicka på den för att visa en praktisk QR-kod för att skanna när du synkroniserar på mobila enheter.</p>"
+      },
+      "Welcome": {
+        "key": "View_Help_Welcome",
+        "default": "<h4>Välkommen till xBrowserSync!</h4><p>xBrowserSync är ett gratis och med öppen källkod alternativ till synkroniseringstjänster för webbläsare som erbjuds av Google, Mozilla, Opera och andra, som respekterar din integritet och ger dig fullständig anonymitet (se <a href='https://link.xbrowsersync.org/www' class='new-tab'>hemsidan</a> för mer information).</p><p>Ta en stund för att läsa igenom denna hjälpguide och bekanta dig med xBrowserSync, med hjälp av sidlänkarna nedan eller piltangenterna för att flytta mellan sidor.</p><p>Observera: xBrowserSync synkroniserar för närvarande endast bokmärken. Synkronisering av ytterligare webbläsardata kommer att läggas till i framtida versioner, följ utvecklingens <a href='https://link.xbrowsersync.org/roadmap' class='new-tab'>färdplan</a> för att se vad som är planerat.</p>",
+        "android": "<h4>Välkommen till xBrowserSync!</h4><p>xBrowserSync är ett gratis och med öppen källkod alternativ till synkroniseringstjänster för webbläsare som erbjuds av Google, Mozilla, Opera och andra, som respekterar din integritet och ger dig fullständig anonymitet (se <a href='https://link.xbrowsersync.org/www' class='new-tab'>hemsidan</a> för mer information).</p><p>Ta en stund för att läsa igenom denna hjälpguide och bekanta dig med xBrowserSync, med hjälp av sidlänkarna nedan eller svep för att flytta mellan sidor.</p><p>Observera: xBrowserSync synkroniserar för närvarande endast bokmärken. Synkronisering av ytterligare webbläsardata kommer att läggas till i framtida versioner, följ utvecklingens <a href='https://link.xbrowsersync.org/roadmap' class='new-tab'>färdplan</a> för att se vad som är planerat.</p>"
+      }
+    },
+    "Login": {
+      "GetSyncId": {
+        "Title": {
+          "key": "View_Login_GetSyncId_Title",
+          "default": "Behöver du ett synkroniserings-ID?"
+        },
+        "Content": {
+          "key": "View_Login_GetSyncId_Content",
+          "default": "Ladda ner xBrowserSync stationära webbläsartillägg och skapa en ny synkronisering för att komma åt dina bokmärken här."
+        }
+      },
+      "Password": {
+        "Confirm": {
+          "key": "View_Login_Password_Confirm",
+          "default": "Bekräfta lösenord"
+        },
+        "Existing": {
+          "key": "View_Login_Password_Existing",
+          "default": "Ditt krypteringslösenord"
+        },
+        "Label": {
+          "key": "View_Login_Password_Label",
+          "default": "Krypteringslösenord"
+        },
+        "New": {
+          "key": "View_Login_Password_New",
+          "default": "Ange ett krypteringslösenord"
+        },
+        "Show": {
+          "key": "View_Login_Password_Show",
+          "default": "Visa lösenord"
+        }
+      },
+      "Scan": {
+        "Title": {
+          "key": "View_Login_Scan_Title",
+          "default": "Anslut till din synkronisering"
+        },
+        "Content": {
+          "key": "View_Login_Scan_Content",
+          "default": "Öppna xBrowserSync i din stationära webbläsare, gå till panelen Inställningar och klicka på ditt synkroniserings-ID för att visa en QR-kod som du kan skanna här."
+        },
+        "ScanCode": {
+          "key": "View_Login_Scan_ScanCode",
+          "default": "Skanna kod"
+        },
+        "ManualEntry": {
+          "key": "View_Login_Scan_ManualEntry",
+          "default": "Ange synkroniseringsdetaljer manuellt"
+        }
+      },
+      "Service": {
+        "ApiVersion": {
+          "key": "View_Login_Service_ApiVersion",
+          "default": "API-version"
+        },
+        "Confirm": {
+          "key": "View_Login_Service_Confirm",
+          "default": "Synkronisera till denna tjänst?"
+        },
+        "Location": {
+          "key": "View_Login_Service_Location",
+          "default": "Plats"
+        },
+        "MaxSyncSize": {
+          "key": "View_Login_Service_MaxSyncSize",
+          "default": "Maximal synkroniseringsstorlek"
+        },
+        "Selected": {
+          "key": "View_Login_Service_Selected",
+          "default": "Synkroniserar till"
+        },
+        "Status": {
+          "key": "View_Login_Service_Status",
+          "default": "Status"
+        },
+        "Update": {
+          "Label": {
+            "key": "View_Login_Service_Update_Label",
+            "default": "xBrowserSync-tjänstens webbadress"
+          },
+          "Description": {
+            "key": "View_Login_Service_Update_Description",
+            "default": "Ange webbadressen till en alternativ xBrowserSync-tjänst. Bläddra i listan över offentliga xBrowserSync-tjänster <a href='https://link.xbrowsersync.org/service-list' class='new-tab'>här</a>."
+          },
+          "Button": {
+            "key": "View_Login_Service_Update_Button",
+            "default": "Byt tjänst"
+          },
+          "Required": {
+            "key": "View_Login_Service_Update_Required",
+            "default": "Webbadress krävs"
+          },
+          "InvalidService": {
+            "key": "View_Login_Service_Update_InvalidService",
+            "default": "Inte en giltig xBrowserSync-tjänst"
+          },
+          "InvalidUrl": {
+            "key": "View_Login_Service_Update_InvalidUrl",
+            "default": "Inte en giltig webbadress"
+          },
+          "Failed": {
+            "key": "View_Login_Service_Update_Failed",
+            "default": "Kunde inte ansluta till tjänsten"
+          },
+          "NotSupported": {
+            "key": "View_Login_Service_Update_Failed_NotSupported",
+            "default": "Denna tjänst kör en API-version som inte stöds"
+          }
+        },
+        "Warning": {
+          "key": "View_Login_Service_Warning",
+          "default": "<strong>Viktigt:</strong> xBrowserSync-tjänster drivs självständigt av volontärer. Tjänsteadministratören tar inget ansvar för din data så kom ihåg att säkerhetskopiera regelbundet."
+        }
+      },
+      "Sync": {
+        "Confirm": {
+          "Title": {
+            "key": "View_Login_Sync_Confirm_Title",
+            "default": "Är du säker?"
+          },
+          "Content": {
+            "key": "View_Login_Sync_Confirm_Content",
+            "default": "xBrowserSync kommer att radera all lokal bokmärkesdata innan återställning av synkroniserade bokmärken. OK för att fortsätta?"
+          }
+        },
+        "DisableOthers": {
+          "Title": {
+            "key": "View_Login_Sync_DisableOthers_Title",
+            "default": "Inaktivera synkningsverktyg för bokmärken"
+          },
+          "Content": {
+            "key": "View_Login_Sync_DisableOthers_Content",
+            "default": "Att synkronisera din webbläsares data med xBrowserSync medan andra synkroniseringsverktyg för bokmärken (t.ex. <a href='https://link.xbrowsersync.org/chrome-sync' class='new-tab'>Google Chrome Sync</a>) är aktiva kan orsaka dubbletter och eventuellt skadad data. Inaktivera dessa innan du fortsätter.",
+            "brave": "Att synkronisera din webbläsares data med xBrowserSync medan andra synkroniseringsverktyg för bokmärken (t.ex. <a href='https://link.xbrowsersync.org/brave-sync' class='new-tab'>Brave Sync</a>) är aktiva kan orsaka dubbletter och eventuellt skadad data. Inaktivera dessa innan du fortsätter.",
+            "edge": "Att synkronisera din webbläsares data med xBrowserSync medan andra synkroniseringsverktyg för bokmärken (t.ex. <a href='https://link.xbrowsersync.org/edge-sync' class='new-tab'>Microsoft Edge Sync</a>) är aktiva kan orsaka dubbletter och eventuellt skadad data. Inaktivera dessa innan du fortsätter.",
+            "firefox": "Att synkronisera din webbläsares data med xBrowserSync medan andra synkroniseringsverktyg för bokmärken (t.ex. <a href='https://link.xbrowsersync.org/firefox-sync' class='new-tab'>Firefox Sync</a>) är aktiva kan orsaka dubbletter och eventuellt skadad data. Inaktivera dessa innan du fortsätter."
+          }
+        },
+        "Enable": {
+          "key": "View_Login_Sync_Enable",
+          "default": "Synkronisera"
+        },
+        "New": {
+          "key": "View_Login_Sync_New",
+          "default": "Skapa ny synkronisering"
+        },
+        "UpgradeReady": {
+          "Title": {
+            "key": "View_Login_Sync_UpgradeReady_Title",
+            "default": "Redo att uppgradera synkronisering?"
+          },
+          "Content": {
+            "key": "View_Login_Sync_UpgradeReady_Content",
+            "default": "<p>Din synkronisering måste uppgraderas innan du synkroniserar med denna version av xBrowserSync. Efter uppgradering kommer du inte längre att kunna synkronisera med tidigare versioner av xBrowserSync.</p><p>Var noga med att uppdatera xBrowserSync på alla synkroniserade enheter innan du fortsätter. Redo att fortsätta?</p>"
+          }
+        },
+        "UpgradeRequired": {
+          "Title": {
+            "key": "View_Login_Sync_UpgradeRequired_Title",
+            "default": "Uppgradera synkronisering"
+          },
+          "Content": {
+            "key": "View_Login_Sync_UpgradeRequired_Content",
+            "default": "<p>Din synkronisering måste uppgraderas innan du synkroniserar med denna version av xBrowserSync.</p><p>Använd det stationära webbläsartillägget xBrowserSync för att uppgradera din synkronisering och försök sedan att synkronisera igen här.</p>"
+          }
+        }
+      },
+      "SyncId": {
+        "Description": {
+          "key": "View_Login_SyncId_Description",
+          "default": "Ditt synkroniserings-ID"
+        },
+        "Existing": {
+          "key": "View_Login_SyncId_Existing",
+          "default": "Har du redan ett synkroniserings-ID?"
+        },
+        "Invalid": {
+          "key": "View_Login_SyncId_Invalid",
+          "default": "Inte ett giltigt synkroniserings-ID"
+        },
+        "Label": {
+          "key": "View_Login_SyncId_Label",
+          "default": "ID"
+        },
+        "New": {
+          "key": "View_Login_SyncId_New",
+          "default": "Skaffa ett synkroniserings-ID"
+        }
+      }
+    },
+    "Permissions": {
+      "Title": {
+        "key": "View_Permissions_Title",
+        "default": "Frivilliga behörigheter"
+      },
+      "Content": {
+        "key": "View_Permissions_Content",
+        "default": "<p>xBrowserSync berikar automatiskt bokmärken med tillgängliga metadata som lagts till med webbläsarens Lägg till bokmärke-knapp. För att aktivera detta kräver xBrowserSync <a href='https://link.xbrowsersync.org/optional-perms-faq' class='new-tab'>ytterligare behörigheter</a> för att kunna läsa besökta webbplatsdata.</p><p>Om du får frågan, välj om du är okej med att bevilja dessa behörigheter, alternativt kan du lägga till eller ta bort behörigheter när som helst i panelen Inställningar.</p>"
+      }
+    },
+    "Scan": {
+      "Title": {
+        "key": "View_Scan_Title",
+        "default": "Skanna din synkroniserings-ID QR-kod"
+      },
+      "ToggleLight": {
+        "key": "View_Scan_ToggleLight",
+        "default": "Växla ljus"
+      }
+    },
+    "Search": {
+      "BookmarkTree": {
+        "key": "View_Search_BookmarkTree",
+        "default": "Visa bokmärkesmappar"
+      },
+      "Clear": {
+        "key": "View_Search_Clear",
+        "default": "Rensa"
+      },
+      "FolderEmpty": {
+        "key": "View_Search_FolderEmpty",
+        "default": "Mapp är tom"
+      },
+      "NoBookmarks": {
+        "key": "View_Search_NoBookmarks",
+        "default": "Du har inga bokmärken, lägg till några!"
+      },
+      "NoResults": {
+        "key": "View_Search_NoResults",
+        "default": "Inga bokmärken hittades"
+      },
+      "Placeholder": {
+        "key": "View_Search_Placeholder",
+        "default": "Tryck på Enter eller sök efter bokmärken",
+        "android": "Hitta bokmärken"
+      },
+      "Pulling": {
+        "key": "View_Search_Pulling",
+        "default": "Dra ned för att synkronisera"
+      },
+      "Pulled": {
+        "key": "View_Search_Pulled",
+        "default": "Släpp för att synkronisera"
+      },
+      "SearchResults": {
+        "key": "View_Search_SearchResults",
+        "default": "Visa sökresultat"
+      }
+    },
+    "Settings": {
+      "BackupRestore": {
+        "Title": {
+          "key": "View_Settings_BackupRestore_Title",
+          "default": "Säkerhetskopiering och återställning"
+        },
+        "AutoBackup": {
+          "Title": {
+            "key": "View_Settings_BackupRestore_AutoBackup_Title",
+            "default": "Automatisk säkerhetskopiering"
+          },
+          "Description": {
+            "key": "View_Settings_BackupRestore_AutoBackup_Description",
+            "default": "Ladda ned säkerhetskopior automatiskt enligt ett schema."
+          },
+          "RunsAt": {
+            "key": "View_Settings_BackupRestore_AutoBackup_RunsAt",
+            "default": "Säkerhetskopiering körs"
+          },
+          "Every": {
+            "key": "View_Settings_BackupRestore_AutoBackup_Every",
+            "default": "varje"
+          },
+          "Numbers": {
+            "Single": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Single",
+              "default": "enstaka"
+            },
+            "Two": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Two",
+              "default": "två"
+            },
+            "Three": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Three",
+              "default": "tre"
+            },
+            "Four": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Four",
+              "default": "fyra"
+            },
+            "Five": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Five",
+              "default": "fem"
+            },
+            "Six": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Six",
+              "default": "sex"
+            },
+            "Seven": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Seven",
+              "default": "sju"
+            },
+            "Eight": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Eight",
+              "default": "åtta"
+            },
+            "Nine": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Nine",
+              "default": "nio"
+            },
+            "Ten": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Ten",
+              "default": "tio"
+            },
+            "Eleven": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Eleven",
+              "default": "elva"
+            },
+            "Twelve": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Twelve",
+              "default": "tolv"
+            }
+          },
+          "Units": {
+            "Day": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Units_Day",
+              "default": "dagar"
+            },
+            "Week": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Units_Week",
+              "default": "veckor"
+            },
+            "Month": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Units_Month",
+              "default": "månader"
+            }
+          },
+          "Confirmation": {
+            "key": "View_Settings_BackupRestore_AutoBackup_Confirmation",
+            "default": "För att förhindra att dialogrutan “Spara som...” visas när du laddar ned säkerhetskopior, inaktivera webbläsarinställningen “Fråga var filerna ska sparas före nedladdning\"."
+          }
+        },
+        "Backup": {
+          "Title": {
+            "key": "View_Settings_BackupRestore_Backup_Title",
+            "default": "Säkerhetskopiering"
+          },
+          "Button": {
+            "key": "View_Settings_BackupRestore_Backup_Button",
+            "default": "Ladda ned säkerhetskopia"
+          },
+          "Local": {
+            "key": "View_Settings_BackupRestore_Backup_Local",
+            "default": "Säkerhetskopiera lokal webbläsardata till en fil."
+          },
+          "Synced": {
+            "key": "View_Settings_BackupRestore_Backup_Synced",
+            "default": "Säkerhetskopiera synkroniserad data till en fil."
+          }
+        },
+        "Restore": {
+          "Title": {
+            "key": "View_Settings_BackupRestore_Restore_Title",
+            "default": "Återställning"
+          },
+          "Button": {
+            "key": "View_Settings_BackupRestore_Restore_Button",
+            "default": "Återställ från säkerhetskopia"
+          },
+          "Local": {
+            "Description": {
+              "key": "View_Settings_BackupRestore_Restore_Local_Description",
+              "default": "Återställ lokal webbläsardata från en säkerhetskopia."
+            },
+            "Confirm": {
+              "key": "View_Settings_BackupRestore_Restore_Local_Confirm",
+              "default": "<p>Eftersom synkronisering förnärvarande är inaktiverat kommer data som återställs att skriva över lokal webbläsardata.</p><p>OK för att fortsätta?</p>"
+            }
+          },
+          "Synced": {
+            "Description": {
+              "key": "View_Settings_BackupRestore_Restore_Synced_Description",
+              "default": "Återställ synkroniserad data från en säkerhetskopia."
+            },
+            "Confirm": {
+              "key": "View_Settings_BackupRestore_Restore_Synced_Confirm",
+              "default": "<p>Eftersom synkronisering förnärvarande är aktiverat kommer data som återställs att skriva över dina synkroniserade data.</p><p>För att endast återställa data till den lokala webbläsaren, inaktivera synkronisering innan du återställer.</p><p>OK för att fortsätta?</p>",
+              "android": "<p>Data som återställs kommer att skriva över din synkroniserade data.</p><p>OK för att fortsätta?</p>"
+            }
+          },
+          "Done": {
+            "key": "View_Settings_BackupRestore_Restore_Done",
+            "default": "Säkerhetskopian har återställts."
+          },
+          "SelectFile": {
+            "Button": {
+              "key": "View_Settings_BackupRestore_Restore_SelectFile_Button",
+              "default": "Välj fil"
+            },
+            "Placeholder": {
+              "key": "View_Settings_BackupRestore_Restore_SelectFile_Placeholder",
+              "default": "Välj en säkerhetskopieringsfil att återställa"
+            }
+          },
+          "Copy": {
+            "key": "View_Settings_BackupRestore_Restore_Copy",
+            "default": "Kopiera innehållet i en säkerhetskopieringsfil för att återställa data."
+          },
+          "Paste": {
+            "key": "View_Settings_BackupRestore_Restore_Paste",
+            "default": "Klistra in säkerhetskopieringsdata"
+          },
+          "RestoreData": {
+            "key": "View_Settings_BackupRestore_Restore_RestoreData",
+            "default": "Återställ data"
+          },
+          "Invalid": {
+            "key": "View_Settings_BackupRestore_Restore_Invalid",
+            "default": "Ogiltig xBrowserSync-säkerhetskopieringsdata"
+          }
+        },
+        "Reset": {
+          "Confirm": {
+            "key": "View_Settings_BackupRestore_Reset_Confirm",
+            "default": "<p>Om du fortsätter kommer synkronisering att inaktiveras och din lokala webbläsardata kommer att återställas till när xBrowserSync installerades den {date}.</p><p>OK för att fortsätta?</p>"
+          },
+          "Button": {
+            "key": "View_Settings_BackupRestore_Reset_Button",
+            "default": "Återställ lokal data"
+          },
+          "Done": {
+            "key": "View_Settings_BackupRestore_Reset_Done",
+            "default": "Lokal webbläsardata har återställts till ursprungligt installationstillstånd."
+          },
+          "Unavailable": {
+            "key": "View_Settings_BackupRestore_Reset_Unavailable",
+            "default": "Data för installationstillstånd är inte tillgänglig, kan inte återställa."
+          }
+        }
+      },
+      "Issues": {
+        "Title": {
+          "key": "View_Settings_Issues_Title",
+          "default": "Hjälp och support"
+        },
+        "Help": {
+          "Title": {
+            "key": "View_Settings_Issues_Help_Title",
+            "default": "Hjälpguide"
+          },
+          "Description": {
+            "key": "View_Settings_Issues_Help_Description",
+            "default": "Har du en fråga eller ett problem? Se till att läsa igenom hjälpguiden, annars kan svaret vara i vanliga frågor."
+          },
+          "ViewFaqs": {
+            "key": "View_Settings_Issues_Help_ViewFaqs",
+            "default": "Visa vanliga frågor"
+          }
+        },
+        "Tracker": {
+          "Title": {
+            "key": "View_Settings_Issues_Tracker_Title",
+            "default": "Support"
+          },
+          "Description": {
+            "key": "View_Settings_Issues_Tracker_Description",
+            "default": "Behöver du support? Använd ärendehanteraren för att rapportera en bugg eller begära en funktion."
+          },
+          "Report": {
+            "key": "View_Settings_Issues_Tracker_Report",
+            "default": "Visa ärendehanteraren"
+          }
+        },
+        "Log": {
+          "Title": {
+            "key": "View_Settings_Issues_Log_Title",
+            "default": "Programlogg"
+          },
+          "Description": {
+            "key": "View_Settings_Issues_Log_Description",
+            "default": "Ladda ned och inkludera programloggen när du loggar ett problem."
+          },
+          "Clear": {
+            "key": "View_Settings_Issues_Log_Clear",
+            "default": "Rensa logg"
+          },
+          "Download": {
+            "key": "View_Settings_Issues_Log_Download",
+            "default": "Ladda ned logg"
+          },
+          "Size": {
+            "key": "View_Settings_Issues_Log_Size",
+            "default": "Nuvarande loggstorlek"
+          }
+        }
+      },
+      "Permissions": {
+        "Title": {
+          "key": "View_Settings_Permissions_Title",
+          "default": "Frivilliga behörigheter"
+        },
+        "Add": {
+          "key": "View_Settings_Permissions_Add",
+          "default": "Bevilja behörigheter"
+        },
+        "Granted": {
+          "key": "View_Settings_Permissions_Granted",
+          "default": "Beviljad"
+        },
+        "NotGranted": {
+          "key": "View_Settings_Permissions_NotGranted",
+          "default": "Ej beviljad"
+        },
+        "Read": {
+          "Title": {
+            "key": "View_Settings_Permissions_Read_Title",
+            "default": "Läs webbplatsdata"
+          },
+          "Description": {
+            "key": "View_Settings_Permissions_Read_Description",
+            "default": "Krävs för att automatiskt lägga till metadata till bokmärken när du använder webbläsarens knapp “Bokmärk denna sida” (<a href='https://link.xbrowsersync.org/optional-perms-faq' class='new-tab'>mer information</a>)."
+          }
+        },
+        "Remove": {
+          "key": "View_Settings_Permissions_Remove",
+          "default": "Ta bort behörigheter"
+        }
+      },
+      "Prefs": {
+        "AutoFetchMetadata": {
+          "Label": {
+            "key": "View_Settings_Prefs_AutoFetchMetadata_Label",
+            "default": "Hämta bokmärkens metadata automatiskt"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_AutoFetchMetadata_Description",
+            "default": "Hämta metadata automatiskt när ett bokmärke läggs till."
+          }
+        },
+        "CheckForAppUpdates": {
+          "Label": {
+            "key": "View_Settings_Prefs_CheckForAppUpdates_Label",
+            "default": "Sök efter appuppdateringar"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_CheckForAppUpdates_Description",
+            "default": "Bli meddelad när en ny version av xBrowserSync finns tillgänglig."
+          }
+        },
+        "DarkMode": {
+          "Label": {
+            "key": "View_Settings_Prefs_DarkMode_Label",
+            "default": "Aktivera mörkt läge"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_DarkMode_Description",
+            "default": "Idealisk för användning i miljöer med svagt ljus."
+          }
+        },
+        "DefaultToFolderView": {
+          "Label": {
+            "key": "View_Settings_Prefs_DefaultToFolderView_Label",
+            "default": "Visa bokmärkesmappar"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_DefaultToFolderView_Description",
+            "default": "Visa bokmärkesmappar som standard."
+          }
+        },
+        "SearchBar": {
+          "Label": {
+            "key": "View_Settings_Prefs_SearchBar_Label",
+            "default": "Växla sökfältets position"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_SearchBar_Description",
+            "default": "Visa sökfältet under resultaten."
+          }
+        },
+        "SyncToolbar": {
+          "Label": {
+            "key": "View_Settings_Prefs_SyncToolbar_Label",
+            "default": "Synkronisera bokmärkesfältet"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_SyncToolbar_Description",
+            "default": "Inaktivera denna inställning för att visa olika bokmärkesfält i synkroniserade webbläsare."
+          },
+          "Confirmation": {
+            "key": "View_Settings_Prefs_SyncToolbar_Confirmation",
+            "default": "<p>Aktivering av denna inställning kommer att ersätta de nuvarande bokmärkena i bokmärkesfältet med dina synkroniserade bokmärken.</p><p>OK för att fortsätta?</p>"
+          }
+        },
+        "Title": {
+          "key": "View_Settings_Prefs_Title",
+          "default": "Inställningar"
+        }
+      },
+      "Sync": {
+        "Title": {
+          "key": "View_Settings_Sync_Title",
+          "default": "Synkronisering"
+        },
+        "Disable": {
+          "key": "View_Settings_Sync_Disable",
+          "default": "Inaktivera synkronisering"
+        },
+        "Id": {
+          "Label": {
+            "key": "View_Settings_Sync_Id_Label",
+            "default": "Synkroniserings-ID"
+          },
+          "Description": {
+            "key": "View_Settings_Sync_Id_Description",
+            "default": "Använd ditt synkroniserings-ID för att ansluta till dina synkroniserade data på andra enheter (klicka för att visa QR-kod)."
+          }
+        },
+        "Data": {
+          "Label": {
+            "key": "View_Settings_Sync_Data_Label",
+            "default": "Dataanvändning"
+          },
+          "Description": {
+            "key": "View_Settings_Sync_Data_Description",
+            "default": "Hur mycket av tjänstens tillåtna synkroniseringsdata du använder."
+          }
+        },
+        "Service": {
+          "key": "View_Settings_Sync_Service",
+          "default": "Tjänst"
+        },
+        "UpdatesAvailable": {
+          "False": {
+            "key": "View_Settings_Sync_UpdatesAvailable_False",
+            "default": "Senast synkroniserad {date}"
+          },
+          "True": {
+            "key": "View_Settings_Sync_UpdatesAvailable_True",
+            "default": "Redo att synkronisera (schemalagd till {date})"
+          },
+          "Sync": {
+            "key": "View_Settings_Sync_UpdatesAvailable_Sync",
+            "default": "Synkronisera nu"
+          }
+        },
+        "Qr": {
+          "Description": {
+            "key": "View_Settings_Sync_Qr_Description",
+            "default": "Skanna denna QR-kod med Android-appen xBrowserSync för att ansluta till dina synkroniserade data."
+          },
+          "Show": {
+            "key": "View_Settings_Sync_Qr_Show",
+            "default": "Visa QR-kod"
+          },
+          "Copy": {
+            "key": "View_Settings_Sync_Qr_Copy",
+            "default": "Kopiera synkroniserings-ID till urklipp"
+          },
+          "Copied": {
+            "key": "View_Settings_Sync_Qr_Copied",
+            "default": "Kopierad!"
+          }
+        }
+      },
+      "NotAvailable": {
+        "key": "View_Settings_NotAvailable",
+        "default": "Inställningar tillgängliga när synkronisering är aktiverad."
+      },
+      "FileDownloaded": {
+        "key": "View_Settings_FileDownloaded",
+        "default": "Fil sparad i Nedladdade filer"
+      },
+      "Support": {
+        "key": "View_Settings_Support",
+        "default": "Stöd xBrowserSync"
+      }
+    },
+    "Support": {
+      "Title": {
+        "key": "View_Support_Title",
+        "default": "Stöd xBrowserSync!"
+      },
+      "Content": {
+        "key": "View_Support_Content",
+        "default": "<p>Vi vill göra xBrowserSync till det största synkroniseringsverktyget, men det finns fortfarande mycket kvar att göra:</p><ul><li>Lägga till synkronisering av webbläsarflikar och historik</li><li>Stödja alla större stationära webbläsare</li><li>Översätta till andra språk</li><li>Och <a href='https://link.xbrowsersync.org/roadmap' class='new-tab'>mycket mer</a>!</li></ul><p>Vi kan endast med din hjälp fortsätta att förbättra xBrowserSync och se till att det förblir effektivt när det gäller att skydda online-integritet och öka produktiviteten.</p>"
+      },
+      "Cryptos": {
+        "key": "View_Support_Cryptos",
+        "default": "Kryptos"
+      },
+      "Liberapay": {
+        "key": "View_Support_Liberapay",
+        "default": "Liberapay"
+      },
+      "Patreon": {
+        "key": "View_Support_Patreon",
+        "default": "Patreon"
+      }
+    },
+    "SyncRemoved": {
+      "Title": {
+        "key": "View_SyncRemoved_Title",
+        "default": "Synkronisering hittades inte"
+      },
+      "Content": {
+        "key": "View_SyncRemoved_Content",
+        "default": "<p>Din synkronisering kunde inte hittas och kan ha tagits bort på grund av inaktivitet.</p><p>Du måste skapa en ny synkronisering, men klicka först på knappen nedan för att ladda ned en säkerhetskopia av dina synkroniserade data som du sedan kan återställa till din nya synkronisering.</p>"
+      }
+    },
+    "Updated": {
+      "Title": {
+        "key": "View_Updated_Title",
+        "default": "Uppdaterad till"
+      },
+      "Content": {
+        "key": "View_Updated_Content",
+        "default": "<p>xBrowserSync har uppdaterats med de senaste funktionerna och korrigeringarna.</p><p>Om synkronisering var aktiverad, har den nu inaktiverats och din synkronisering måste först uppgraderas innan den synkroniseras med denna version av xBrowserSync. Återaktivera synkronisering för att slutföra uppgraderingsprocessen.</p><p>För mer information om ändringarna i denna version, titta i versionsinformationen.</p>"
+      }
+    },
+    "Working": {
+      "Restoring": {
+        "key": "View_Working_Restoring",
+        "default": "Återställer"
+      },
+      "Resetting": {
+        "key": "View_Working_Resetting",
+        "default": "Återställer"
+      },
+      "Syncing": {
+        "key": "View_Working_Syncing",
+        "default": "Synkroniserar"
+      }
+    }
+  }
+}

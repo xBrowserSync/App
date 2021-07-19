@@ -1235,10 +1235,6 @@
           }
         }
       },
-      "AppVersion": {
-        "key": "View_Settings_AppVersion",
-        "default": "版本"
-      },
       "NotAvailable": {
         "key": "View_Settings_NotAvailable",
         "default": "启用同步时可用设置。"

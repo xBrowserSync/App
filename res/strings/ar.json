@@ -1,0 +1,1308 @@
+{
+  "Alert": {
+    "AppUpdateAvailable": {
+      "Title": {
+        "key": "Alert_AppUpdateAvailable_Title",
+        "default": "يتوفر تحديث إكس براوزر سينك"
+      },
+      "Message": {
+        "key": "Alert_AppUpdateAvailable_Message",
+        "default": "الإصدار: {version} متاح للتنزيل. انقر لمزيد من المعلومات.",
+        "android": "إصدار إكس براوزر سينك {version} متاح للتنزيل."
+      }
+    },
+    "AppUpdated": {
+      "Title": {
+        "key": "Alert_AppUpdated_Title",
+        "default": "تم التحديث لـ"
+      },
+      "Message": {
+        "key": "Alert_AppUpdated_Message",
+        "default": "تم تحديث إكس براوزر سينك. تم تعطيل المزامنة، أعد تفعيل المزامنة لإكمال عملية التحديث."
+      }
+    },
+    "BookmarkCreated": {
+      "key": "Alert_BookmarkCreated",
+      "default": "تم إنشاء الإشارة المرجعية"
+    },
+    "BookmarkDeleted": {
+      "key": "Alert_BookmarkDeleted",
+      "default": "تم حذف الإشارة المرجعية"
+    },
+    "BookmarkUpdated": {
+      "key": "Alert_BookmarkUpdated",
+      "default": "تم تحديث الإشارة المرجعية"
+    },
+    "GetMetadata": {
+      "Message": {
+        "key": "Alert_GetMetadata_Message",
+        "default": "جارِ جلب بيانات الإشارة المرجعية، اضغط للإلغاء."
+      },
+      "Success": {
+        "key": "Alert_GetMetadata_Success",
+        "default": "تم تحديث بيانات الإشارة المرجعية."
+      }
+    },
+    "Go": {
+      "key": "Alert_Go",
+      "default": "الذهاب"
+    },
+    "WorkingOffline": {
+      "Title": {
+        "key": "Alert_WorkingOffline_Title",
+        "default": "يعمل دون اتصال"
+      },
+      "Message": {
+        "key": "Alert_WorkingOffline_Message",
+        "default": "ستتم مزامنة التغييرات عند رجوع الاتصال."
+      }
+    }
+  },
+  "App": {
+    "Description": {
+      "key": "App_Description",
+      "default": "مزامنة المتصفح كما يجب أن تكون: آمنة، ومتخفية، ومجانية! قم بمزامنة الإشارات المرجعية عبر المتصفحات والأجهزة خاصتك، لا يتطلب التسجيل."
+    },
+    "Title": {
+      "key": "App_Title",
+      "default": "xBrowserSync"
+    }
+  },
+  "Bookmarks": {
+    "Container": {
+      "Menu": {
+        "key": "Bookmarks_Container_Menu",
+        "default": "الإشارات المرجعية بالقائمة"
+      },
+      "Mobile": {
+        "key": "Bookmarks_Container_Mobile",
+        "default": "الإشارات المرجعية بالهاتف"
+      },
+      "Other": {
+        "key": "Bookmarks_Container_Other",
+        "default": "إشارات مرجعية أخرى"
+      },
+      "Toolbar": {
+        "key": "Bookmarks_Container_Toolbar",
+        "default": "الإشارات المرجعية بشريط الأدوات"
+      }
+    }
+  },
+  "Button": {
+    "AddBookmark": {
+      "key": "Button_AddBookmark",
+      "default": "إضافة إشارة مرجعية"
+    },
+    "Back": {
+      "key": "Button_Back",
+      "default": "الرجوع"
+    },
+    "Cancel": {
+      "key": "Button_Cancel",
+      "default": "إلغاء"
+    },
+    "Close": {
+      "key": "Button_Close",
+      "default": "إغلاق"
+    },
+    "Confirm": {
+      "key": "Button_Confirm",
+      "default": "نعم"
+    },
+    "Continue": {
+      "key": "Button_Continue",
+      "default": "استمرار"
+    },
+    "DeleteBookmark": {
+      "key": "Button_DeleteBookmark",
+      "default": "حذف الإشارة المرجعية"
+    },
+    "Deny": {
+      "key": "Button_Deny",
+      "default": "لا"
+    },
+    "Done": {
+      "key": "Button_Done",
+      "default": "تم"
+    },
+    "DownloadBackup": {
+      "key": "Button_DownloadBackup",
+      "default": "تحميل نسخة احتياطية"
+    },
+    "EditBookmark": {
+      "key": "Button_EditBookmark",
+      "default": "تعديل الإشارة المرجعية"
+    },
+    "Help": {
+      "key": "Button_Help",
+      "default": "عرض دليل المساعدة"
+    },
+    "Next": {
+      "key": "Button_Next",
+      "default": "التالي"
+    },
+    "OK": {
+      "key": "Button_OK",
+      "default": "حسنا"
+    },
+    "ReleaseNotes": {
+      "key": "Button_ReleaseNotes",
+      "default": "عرض ملاحظات الإصدار"
+    },
+    "Saving": {
+      "key": "Button_Saving",
+      "default": "جاري الحفظ"
+    },
+    "Settings": {
+      "key": "Button_Settings",
+      "default": "الإعدادات"
+    },
+    "ShareBookmark": {
+      "key": "Button_ShareBookmark",
+      "default": "مشاركة الإشارة المرجعية"
+    },
+    "Undo": {
+      "key": "Button_Undo",
+      "default": "تراجع"
+    },
+    "Update": {
+      "key": "Button_Update",
+      "default": "تحديث"
+    },
+    "View": {
+      "key": "Button_View",
+      "default": "عرض"
+    }
+  },
+  "Exception": {
+    "ContainerChanged_Message": {
+      "key": "Exception_ContainerChanged_Message",
+      "default": "الرجاء تجنب تعديل مجلدات [xbs] حيث أنه يمكن أن يسبب مشاكل في المزامنة."
+    },
+    "ContainerChanged_Title": {
+      "key": "Exception_ContainerChanged_Title",
+      "default": "تم تغيير مجلد إكس براوزر سينك"
+    },
+    "DailyNewSyncLimitReached_Message": {
+      "key": "Exception_DailyNewSyncLimitReached_Message",
+      "default": "قم بالمزامنة مع رمز مزامنة حالِ أو قم بالتبديل إلى خدمة مختلفة أو حاول مرة أخرى غدًا."
+    },
+    "DailyNewSyncLimitReached_Title": {
+      "key": "Exception_DailyNewSyncLimitReached_Title",
+      "default": "تم الوصول إلى حد المزامنة الجديدة اليومي"
+    },
+    "Default_Message": {
+      "key": "Exception_Default_Message",
+      "default": "إذا استمرت المشكلة من فضلك <a href='https://link.xbrowsersync.org/app-issues' class='new-tab'>أبلغ عن المشكلة</a>."
+    },
+    "Default_Title": {
+      "key": "Exception_Default_Title",
+      "default": "حدث خطأ ما"
+    },
+    "FailedDownloadFile_Title": {
+      "key": "Exception_FailedDownloadFile_Title",
+      "default": "فشل النسخ الاحتياطي"
+    },
+    "FailedGetDataToRestore_Title": {
+      "key": "Exception_FailedGetDataToRestore_Title",
+      "default": "فشل استعراض الملفات"
+    },
+    "FailedGetPageMetadata_Message": {
+      "key": "Exception_FailedGetPageMetadata_Message",
+      "default": "عنوان يو آر إل غير صالح أو فشل استلام بيانات صفحة الويب."
+    },
+    "FailedGetPageMetadata_Title": {
+      "key": "Exception_FailedGetPageMetadata_Title",
+      "default": "فشل الحصول على بيانات الإشارة المرجعية"
+    },
+    "FailedRefreshBookmarks_Title": {
+      "key": "Exception_FailedRefreshBookmarks_Title",
+      "default": "فشل الحصول على التحديثات"
+    },
+    "FailedRestoreData_Message": {
+      "key": "Exception_FailedRestoreData_Message",
+      "default": "بيانات النسخ الاحتياطي المزوَّدة ليست بتنسيق متوقع."
+    },
+    "FailedRestoreData_Title": {
+      "key": "Exception_FailedRestoreData_Title",
+      "default": "غير قادر على استعادة البيانات"
+    },
+    "FailedShareUrlNotSynced_Title": {
+      "key": "Exception_FailedShareUrlNotSynced_Title",
+      "default": "يجب أن تتم المزامنة لإضافة إشارة مرجعية"
+    },
+    "FailedShareUrl_Title": {
+      "key": "Exception_FailedShareUrl_Title",
+      "default": "فشل استرداد عنوان يو آر إل للإشارة المرجعية المشارَكة"
+    },
+    "HttpRequestFailed_Message": {
+      "key": "Exception_HttpRequestFailed_Message",
+      "default": "تحقق من اتصالك بالشبكة وحاول مرة أخرى."
+    },
+    "HttpRequestFailed_Title": {
+      "key": "Exception_HttpRequestFailed_Title",
+      "default": "انقطع الاتصال بالخدمة"
+    },
+    "InvalidCredentials_Message": {
+      "key": "Exception_InvalidCredentials_Message",
+      "default": "تحقق من إدخال رمز المزامنة وكلمة المرور وعنوان يو آر إل الخدمة بشكل صحيح."
+    },
+    "InvalidCredentials_Title": {
+      "key": "Exception_InvalidCredentials_Title",
+      "default": "البيانات غير صحيحة"
+    },
+    "InvalidService_Message": {
+      "key": "Exception_InvalidService_Message",
+      "default": "عنوان يو آر إل للخدمة ليس بخدمة إكس براوزر سينك صحيحة."
+    },
+    "InvalidService_Title": {
+      "key": "Exception_InvalidService_Title",
+      "default": "خدمة إكس براوزر سينك غير صحيحة"
+    },
+    "LocalContainerNotFound_Message": {
+      "key": "Exception_LocalContainerNotFound_Message",
+      "default": "يحتمَل تلف الملف الشخصي للمتصفح، جرّب إنشاء ملف شخصي جديد مما قد يحل المشكلة."
+    },
+    "LocalContainerNotFound_Title": {
+      "key": "Exception_LocalContainerNotFound_Title",
+      "default": "بنية الإشارات المرجعية غير متوقعة"
+    },
+    "LocalSyncError_Message": {
+      "key": "Exception_LocalSyncError_Message",
+      "default": "تم تحديث بيانات المتصفح المحلية، يرجى إعادة تطبيق التغيير الأخير."
+    },
+    "LocalSyncError_Title": {
+      "key": "Exception_LocalSyncError_Title",
+      "default": "خطأ بالمزامنة"
+    },
+    "MissingClientData_Message": {
+      "key": "Exception_MissingClientData_Message",
+      "default": "لم يتم إيجاد بيانات الاعتماد المخزنة. أعد تفعيل المزامنة وحاول مرة أخرى."
+    },
+    "MissingClientData_Title": {
+      "key": "Exception_MissingClientData_Title",
+      "default": "بيانات الاعتماد مفقودة"
+    },
+    "NoDataToRestore_Message": {
+      "key": "Exception_NoDataToRestore_Message",
+      "default": "تأكد من أنك وفرت نسخة احتياطية سليمة لإكس براوزر سينك قبل استعادتها."
+    },
+    "NoDataToRestore_Title": {
+      "key": "Exception_NoDataToRestore_Title",
+      "default": "لا توجد بيانات للإستعادة"
+    },
+    "NotAcceptingNewSyncs_Message": {
+      "key": "Exception_NotAcceptingNewSyncs_Message",
+      "default": "قم بالتبديل إلى خدمة أخرى أو حاول لاحقاً."
+    },
+    "NotAcceptingNewSyncs_Title": {
+      "key": "Exception_NotAcceptingNewSyncs_Title",
+      "default": "الخدمة لا تقبل مزامنات جديدة"
+    },
+    "OutOfSync_Message": {
+      "key": "Exception_OutOfSync_Message",
+      "default": "البيانات المحلية كانت غير متزامنة وتم تحديثها الآن. يرجى إعادة تطبيق التغيير الأخير."
+    },
+    "OutOfSync_Title": {
+      "key": "Exception_OutOfSync_Title",
+      "default": "تم اكتشاف تعارض مزامنة"
+    },
+    "RequestEntityTooLarge_Message": {
+      "key": "Exception_RequestEntityTooLarge_Message",
+      "default": "احذف بعض الإشارات المرجعية وحاول مرة أخرى أو قم بالتبديل إلى خدمة ذات سعة مزامنة أكبر."
+    },
+    "RequestEntityTooLarge_Title": {
+      "key": "Exception_RequestEntityTooLarge_Title",
+      "default": "تم تجاوز سعة بيانات المزامنة"
+    },
+    "ScanFailed_Message": {
+      "key": "Exception_ScanFailed_Message",
+      "default": "تأكد من منح الصلاحية وحاول مجدداً."
+    },
+    "ScanFailed_Title": {
+      "key": "Exception_ScanFailed_Title",
+      "default": "فشل الفحص"
+    },
+    "ServiceOffline_Message": {
+      "key": "Exception_ServiceOffline_Message",
+      "default": "خدمة إكس براوزر سينك غير متصلة حالياً، حاول مرة أخرى لاحقا."
+    },
+    "ServiceOffline_Title": {
+      "key": "Exception_ServiceOffline_Title",
+      "default": "الخدمة غير متصلة"
+    },
+    "ShareFailed_Title": {
+      "key": "Exception_ShareFailed_Title",
+      "default": "فشل المشاركة"
+    },
+    "SyncRemoved_Message": {
+      "key": "Exception_SyncRemoved_Message",
+      "default": "المزامنة المطلوبة غير موجودة، ربما تم إزالتها بسبب عدم النشاط."
+    },
+    "SyncRemoved_Title": {
+      "key": "Exception_SyncRemoved_Title",
+      "default": "لم يتم العثور على المزامنة"
+    },
+    "SyncVersionNotSupported_Message": {
+      "key": "Exception_SyncVersionNotSupported_Message",
+      "default": "هذا الرمز لا يمكن مزامنته مع هذا الإصدار من إكس براوزر سينك، حيث تم ترقية المزامنة إلى إصدار أحدث."
+    },
+    "SyncVersionNotSupported_Restore_Message": {
+      "key": "Exception_SyncVersionNotSupported_Restore_Message",
+      "default": "بيانات النسخ الاحتياطي لايمكن استعادتها بهذه النسخة من إكس براوزر سينك حيث تم إنشاؤها باستخدام إصدار أحدث."
+    },
+    "SyncVersionNotSupported_Title": {
+      "key": "Exception_SyncVersionNotSupported_Title",
+      "default": "إصدار مزامنة غير مدعوم"
+    },
+    "TooManyRequests_Message": {
+      "key": "Exception_TooManyRequests_Message",
+      "default": "تم إلغاء تفعيل المزامنة، قم بتفعيلها لاستئناف عملية المزامنة."
+    },
+    "TooManyRequests_Title": {
+      "key": "Exception_TooManyRequests_Title",
+      "default": "تم بلوغ حد طلب الخدمات"
+    },
+    "UncommittedSyncs_Message": {
+      "key": "Exception_UncommittedSyncs_Message",
+      "default": "سيتم تطبيق المزامنة بمجرد استعادة الاتصال بالخدمة."
+    },
+    "UncommittedSyncs_Title": {
+      "key": "Exception_UncommittedSyncs_Title",
+      "default": "التغييرات غير متزامنة"
+    },
+    "UnsupportedServiceApiVersion_Message": {
+      "key": "Exception_UnsupportedServiceApiVersion_Message",
+      "default": "هذه الخدمة تعمل بإصدار إيه بي آي غير مدعوم."
+    },
+    "UnsupportedServiceApiVersion_Title": {
+      "key": "Exception_UnsupportedServiceApiVersion_Title",
+      "default": "خدمة غير مدعومة"
+    },
+    "UpgradeFailed_Message": {
+      "key": "Exception_UpgradeFailed_Message",
+      "android": "سيتم إعادة محاولة التحديث عند إعادة تشغيل التطبيق. إذا استمرت المشكلة، الرجاء إعادة تثبيت إكس براوزر سينك.",
+      "default": "أعد تشغيل المتصفح الخاص بك لمحاولة إعادة التحديث، إذا استمرت المشكلة، الرجاء إعادة تثبيت إكس براوزر سينك."
+    },
+    "UpgradeFailed_Title": {
+      "key": "Exception_UpgradeFailed_Title",
+      "default": "فشل التحديث"
+    }
+  },
+  "Service": {
+    "Status": {
+      "Error": {
+        "key": "Service_Status_Error",
+        "default": "خطأ في الإتصال"
+      },
+      "Loading": {
+        "key": "Service_Status_Loading",
+        "default": "جار التحقق"
+      },
+      "NoNewSyncs": {
+        "key": "Service_Status_NoNewSyncs",
+        "default": "لا يتم قبول مزامنات جديدة"
+      },
+      "Offline": {
+        "key": "Service_Status_Offline",
+        "default": "غير متصل"
+      },
+      "Online": {
+        "key": "Service_Status_Online",
+        "default": "متصل"
+      }
+    }
+  },
+  "Tooltip": {
+    "NotSynced": {
+      "key": "Tooltip_NotSynced",
+      "default": "غير متزامن"
+    },
+    "Synced": {
+      "key": "Tooltip_Synced",
+      "default": "متزامن"
+    },
+    "Syncing": {
+      "key": "Tooltip_Syncing",
+      "default": "جار المزامنة"
+    }
+  },
+  "View": {
+    "Bookmark": {
+      "Add": {
+        "key": "View_Bookmark_Add",
+        "default": "أضف إشارة مرجعية"
+      },
+      "Edit": {
+        "key": "View_Bookmark_Edit",
+        "default": "تعديل الإشارة المرجعية"
+      },
+      "Form": {
+        "Title": {
+          "key": "View_Bookmark_Form_Title",
+          "default": "العنوان"
+        },
+        "Url": {
+          "Exists": {
+            "key": "View_Bookmark_Form_Url_Exists",
+            "default": "تم بالفعل إضافة إشارة لعنوان اليو آر إل"
+          },
+          "Invalid": {
+            "key": "View_Bookmark_Form_Url_Invalid",
+            "default": "يو آر إل غير صحيح"
+          },
+          "Label": {
+            "key": "View_Bookmark_Form_Url_Label",
+            "default": "يو آر إل"
+          },
+          "Required": {
+            "key": "View_Bookmark_Form_Url_Required",
+            "default": "مطلوب عنوان يو آر إل"
+          }
+        },
+        "Description": {
+          "key": "View_Bookmark_Form_Description",
+          "default": "الوصف"
+        },
+        "Tags": {
+          "Label": {
+            "key": "View_Bookmark_Form_Tags_Label",
+            "default": "العلامات"
+          },
+          "Placeholder": {
+            "key": "View_Bookmark_Form_Tags_Placeholder",
+            "default": "العلامة 1، العلامة 2، العلامة 3، إلخ"
+          },
+          "Clear": {
+            "key": "View_Bookmark_Form_Tags_Clear",
+            "default": "مسح العلامات"
+          },
+          "Remove": {
+            "key": "View_Bookmark_Form_Tags_Remove",
+            "default": "حذف العلامة"
+          }
+        },
+        "Delete": {
+          "key": "View_Bookmark_Form_Delete",
+          "default": "حذف"
+        },
+        "Share": {
+          "key": "View_Bookmark_Form_Share",
+          "default": "مشاركة"
+        },
+        "UpdateProperties": {
+          "key": "View_Bookmark_Form_UpdateProperties",
+          "default": "تحديث بيانات الإشارة المرجعية"
+        }
+      },
+      "InvalidUrlShared": {
+        "key": "View_Bookmark_InvalidUrlShared",
+        "default": "القيمة التي تمت مشاركتها لا تحتوي على عنوان يو آر إل صحيح."
+      }
+    },
+    "Help": {
+      "AddingBookmarks": {
+        "key": "View_Help_AddingBookmarks",
+        "default": "<h4>إضافة إشارة مرجعية</h4><p>قم بوضع إشارة مرجعية على الصفحة الحالية بالنقر على رمز الإشارة المرجعية في شريط البحث. ستتم تعبئة بيانات الإشارة المرجعية لك تلقائيًا، على خلاف ذلك، أضف وصفاً وبعض العلامات لضمان نتائج بحث أفضل.</p><p>بديلاً لذلك، ما عليك سوى النقر على الزر \"إشارة مرجعية لهذه الصفحة\" بالمتصفح كالمعتاد وسيقوم إكس براوزر سينك تلقائيًا بملء بيانات الإشارة المرجعية (يجب منح أذونات اختيارية حتى يعمل هذا، تحقق من الإعدادات).</p>",
+        "android": "<h4>إضافة إشارة مرجعية</h4><p>أضف إشارات مرجعية بسهولة من خلال المشاركة إلى إكس براوزر سينك من أي تطبيقات تشارك عناوين يو آر إل مثل المتصفحات و يوتيوب و سبوتيفاي وغيرها الكثير.</p><p>سيتم جلب بيانات الإشارة المرجعية لك، على خلاف ذلك، أضف وصفًا وبعض العلامات لضمان نتائج بحث أفضل.</p>"
+      },
+      "BackingUp": {
+        "key": "View_Help_BackingUp",
+        "default": "<h4>تذكر القيام بالنسخ الاحتياطي</h4><p>عند استخدام إكس براوزر سينك، فإن بياناتك هي مسؤوليتك، لذا كن ذكيًا وتأكد من عمل نسخ احتياطية.</p><p>توجه إلى لوحة الإعدادات وقم بنسخ بياناتك غير المشفرة احتياطياً إلى ملف محلي يمكن استخدامه لاستعادة بياناتك إذا احتجت إلى ذلك.</p><p>في حالة تلف بيانات متصفحك المحلية ولم يكن لديك أي نسخ احتياطية، يمكنك في أي وقت إعادة تعيين بياناتك إلى حالتها الأصلية في وقت تثبيت إكس براوزر سينك.</p>",
+        "android": "<h4>تذكر القيام بالنسخ الاحتياطي</h4><p>عند استخدام إكس براوزر سينك، فإن بياناتك هي مسؤوليتك، لذا كن ذكيًا وتأكد من عمل نسخ احتياطية.</p><p>توجه إلى لوحة الإعدادات وقم بنسخ بياناتك غير المشفرة احتياطياً إلى ملف محلي يمكن استخدامه لاستعادة بياناتك إذا احتجت إلى ذلك.</p>"
+      },
+      "BeforeYouBegin": {
+        "key": "View_Help_BeforeYouBegin",
+        "default": "<h4>قبل ان تبدأ</h4><p>يعدّل إكس براوزر سينك بيانات المتصفح المحلي الخاص بك، لذا فمن الجيد إجراء نسخ احتياطي للإشارات المرجعية وبيانات المتصفح الأخرى، في حالة ما إذا كنت تستخدم أي خدمات أو أدوات أخرى لمزامنة المتصفح (مثل <a href='https://link.xbrowsersync.org/chrome-sync' class='new-tab'>مزامنة جوجل كروم</a>) يرجى تعطيلها لتجنب التعارضات.</p>",
+        "brave": "<h4>قبل ان تبدأ</h4><p>يعدّل إكس براوزر سينك بيانات المتصفح المحلي الخاص بك، لذا فمن الجيد إجراء نسخ احتياطي للإشارات المرجعية وبيانات المتصفح الأخرى، في حالة ما إذا كنت تستخدم أي خدمات أو أدوات أخرى لمزامنة المتصفح (مثل <a href='https://link.xbrowsersync.org/brave-sync' class='new-tab'>مزامنة متصفح بريف</a>) يرجى تعطيلها لتجنب التعارضات.</p>",
+        "edge": "<h4>قبل ان تبدأ</h4><p>يعدّل إكس براوزر سينك بيانات المتصفح المحلي الخاص بك، لذا فمن الجيد إجراء نسخ احتياطي للإشارات المرجعية وبيانات المتصفح الأخرى، في حالة ما إذا كنت تستخدم أي خدمات أو أدوات أخرى لمزامنة المتصفح (مثل <a href='https://link.xbrowsersync.org/edge-sync' class='new-tab'>مزامنة متصفح إيدج</a>) يرجى تعطيلها لتجنب التعارضات.</p>",
+        "firefox": "<h4>قبل ان تبدأ</h4><p>يعدّل إكس براوزر سينك بيانات المتصفح المحلي الخاص بك، لذا فمن الجيد إجراء نسخ احتياطي للإشارات المرجعية وبيانات المتصفح الأخرى، في حالة ما إذا كنت تستخدم أي خدمات أو أدوات أخرى لمزامنة المتصفح (مثل <a href='https://link.xbrowsersync.org/firefox-sync' class='new-tab'>مزامنة متصفح فَيَرفُكس</a>) يرجى تعطيلها لتجنب التعارضات.</p>"
+      },
+      "ExistingId": {
+        "key": "View_Help_ExistingId",
+        "default": "<h4>المزامنة مع الرمز الحالي الخاص بك</h4><p>انقر على \"هل حصلت بالفعل على رمز مزامنة؟\" لإدخال رمز المزامنة الحالي وكلمة المرور. إذا تم إنشاء رمز المزامنة الخاص بك على خدمة مختلفة عن تلك المعروضة، فانتقل إلى تلك الخدمة قبل محاولة المزامنة.</p><p>سيقوم إكس براوزر سينك باستلام وفك تشفير بياناتك المشفرة باستخدام كلمة مرورك المخزنة محليًا، ثم مسح إشاراتك المرجعية المحلية قبل إعادة ملئها من البيانات التي تم فك تشفيرها.</p><p>عند المزامنة، يتحقق إكس براوزر سينك في الخلفية كل خمس عشرة دقيقة للحصول على تحديثات لبياناتك المتزامنة وسيقوم تلقائيًا بتحديث الإشارات المرجعية المحلية عند الحاجة. يمكنك أيضًا مزامنة التحديثات المتوفرة يدويًا لبياناتك المتزامنة في لوحة الإعدادات.</p>",
+        "android": "<h4>المزامنة مع الرمز الحالي الخاص بك</h4><p>ابدأ بمسح رمز الاستجابة السريعة لرمز المزامنة في لوحة الإعدادات داخل إضافة إكس براوزر سينك لمتصفح سطح المكتب (انقر على رمز المزامنة للكشف عنه). تأكد من إدخال نفس كلمة مرور التشفير المستخدمة عند إنشاء المزامنة وإلا فلن يتمكن إكس براوزر سينك من فك تشفير بياناتك.</p><p>أيضًا، إذا تمت مزامنتك مع خدمة إكس براوزر سينك مختلفة، فتأكد من أنها الخدمة النشطة و تم تهيئتها في لوحة الإعدادات.</p>"
+      },
+      "FirstSync": {
+        "key": "View_Help_FirstSync",
+        "default": "<h4>المزامنة لأول مرة</h4><p>قبل أن يتمكن إكس براوزر سينك من مزامنة بيانات المتصفح الخاص بك، ستحتاج إلى وضع كلمة مرور للتشفير. تأكد من جعلها قوية وقابلة للتذكر أيضًا، فلا توجد عمليات إعادة تعيين أو تذكير، لذا إذا نسيتها فلن تتمكن من الوصول إلى بياناتك المتزامنة.</p><p>سيتم تشفير بيانات المتصفح الخاصة بك باستخدام كلمة المرور الخاصة بك وحفظها في خدمة إكس براوزر سينك النشطة التي تم تهيئتها في لوحة الإعدادات.</p><p>بمجرد المزامنة، ستتم مزامنة أي تغييرات تجريها على الإشارات المرجعية المحلية تلقائياً بواسطة إكس براوزر سينك.</p>",
+        "android": "<h4>المزامنة لأول مرة</h4><p>يقوم إكس براوزر سينك بمزامنة بيانات المتصفح بشكل نشط بين متصفحات سطح المكتب (المزامنة مع متصفحات الهاتف المحمول غير مدعومة في الوقت الحالي)، يمكنك استخدام هذا التطبيق للوصول إلى البيانات المتزامنة على جهازك المحمول الذي يعمل بنظام أندرويد.</p><p>إذا لم تكن قد أنشأت رمز مزامنة بالفعل، فانتقل إلى متصفح سطح المكتب الخاص بك و <a href='https://link.xbrowsersync.org/download' class='new-tab'>نزّل</a> إضافة إكس براوزر سينك. بمجرد إنشاء مزامنة، يمكنك استخدام رمز المزامنة الجديد خاصتك داخل هذا التطبيق للوصول لبياناتك.</p>"
+      },
+      "FurtherSupport": {
+        "key": "View_Help_FurtherSupport",
+        "default": "<h4>مزيد من الدعم</h4><p>يمكنك العثور على إجابات لأكثر الأسئلة شيوعًا في <a href='https://link.xbrowsersync.org/faqs' class='new-tab'>أسئلة شائعة</a>، تحقق أيضًا من <a href='https://link.xbrowsersync.org/known-issues' class='new-tab'>المشاكل المعروفة</a> الحالية لمعرفة ما إذا كانت مشكلتك مدرجة هناك.</p><p>بديلاً لذلك، استخدم <a href='https://link.xbrowsersync.org/app-issues' class='new-tab'>متابع المشاكل</a> للإبلاغ عن مشكلة أو طلب ميزة جديدة.</p>"
+      },
+      "Mobile": {
+        "key": "View_Help_Mobile",
+        "default": "<h4>انطلق إلى الهاتف</h4><p>قم بالوصول إلى إشاراتك المرجعية التي تمت مزامنتها متنقلاً باستخدام تطبيق الأندرويد إكس براوزر سينك، والمتاح على متجر <a href='https://link.xbrowsersync.org/download-android' class='new-tab'>كوكل بلاي</a> أو <a href='https://link.xbrowsersync.org/fdroid' class='new-tab'>إف درويد</a> أو حتى <a href='https://link.xbrowsersync.org/app-releases-latest' class='new-tab'>تحميل مباشر</a>.</p>"
+      },
+      "NativeFeatures": {
+        "key": "View_Help_NativeFeatures",
+        "default": "<h4>الميزات الأصلية مدعومة</h4><p>لا تتردد في الاستمرار في استخدام ميزات الإشارات المرجعية الأصلية لمتصفحك مثل شريط الإشارات ومدير الإشارات، وستتم مزامنة أي تغييرات تجريها تلقائياً في الخلفية.</p><p>إذا كنت قد نظمت إشاراتك المرجعية الحالية في مجلدات، فلا تقلق، فإن إكس براوزر سينك سيحترم ويحافظ على تسلسل المجلدات الحالي للإشارات المرجعية.</p>",
+        "firefox": "<h4>الميزات الأصلية مدعومة</h4><p>لا تتردد في الاستمرار في استخدام ميزات الإشارات المرجعية الأصلية لمتصفحك مثل شريط الإشارات ومدير الإشارات، وستتم مزامنة أي تغييرات تجريها تلقائياً في الخلفية.</p><p>إذا كنت قد نظمت إشاراتك المرجعية الحالية في مجلدات، فلا تقلق، فإن إكس براوزر سينك سيحترم ويحافظ على تسلسل المجلدات الحالي للإشارات المرجعية.</p><p>يرجى ملاحظة أنه نظراً لأن واجهة برمجة تطبيقات الإشارات المرجعية في فَيَرفُكس لا تدعم حتى الآن الوصول إلى علامات الإشارات المرجعية الأصلية، فسيتم فقد أي علامات حالية عند المزامنة ولن يتم حفظ العلامات المضافة عبر إكس براوزر سينك كعلامات أصلية بالمتصفح.</p>"
+      },
+      "Previous": {
+        "key": "View_Help_Previous",
+        "default": "السابق"
+      },
+      "Searching": {
+        "key": "View_Help_Searching",
+        "default": "<h4>البحث في إشاراتك المرجعية</h4><p>بمجرد المزامنة، ما عليك سوى الضغط على زر إنتَر لعرض إشاراتك المرجعية الأخيرة أو كتابة بعض الكلمات أو عنوان يو آر إل للبحث في الإشارات المرجعية الخاصة بك.</p><p>قم بالتنقل بين نتائج البحث ومجلدات الإشارات المرجعية لتصفح التسلسل الهرمي بأكمله.</p><p>لتعديل إشارة مرجعية أو حذفها، مرر مؤشر الماوس على الإشارة المرجعية وانقر على رمز التحرير الذي سيظهر بجوار عنوان الإشارة المرجعية.</p>",
+        "android": "<h4>البحث في إشاراتك المرجعية</h4><p>بمجرد المزامنة، يتم عرض إشاراتك المرجعية بترتيب زمني عند فتح إكس براوزر سينك. اكتب بعض الكلمات أو عنوان يو آر إل في مربع البحث للبحث في الإشارات المرجعية الخاصة بك.</p><p>قم بالتنقل بين نتائج البحث ومجلدات الإشارات المرجعية لتصفح التسلسل الهرمي بأكمله.</p><p>سيسمح لك الضغط لفترة طويلة على إشارة مرجعية بمشاركة الإشارة المرجعية مباشرةً أو تعديلها أو حذفها.</p>"
+      },
+      "Service": {
+        "key": "View_Help_Service",
+        "default": "<h4>المزامنة مع خدمة أخرى</h4><p>بشكل افتراضي، تتم مزامنة بياناتك مع <a href='https://link.xbrowsersync.org/api' class='new-tab'>خدمة إكس براوزر سينك الرسمية</a>، ومع ذلك إذا كنت ترغب في مزامنة بياناتك مع خدمة إكس براوزر سينك بديلة، فيمكنك تبديل الخدمة المفعَّلة قبل المزامنة.</p><p>تحقق من قائمة <a href='https://link.xbrowsersync.org/service-list' class='new-tab'>خدمات إكس براوزر سينك العامة</a> المتاحة أو <a href='https://link.xbrowsersync.org/api-repo' class='new-tab'>شغّل خدمتك الخاصة</a>، إما للاستخدام الخاص لتحقيق أقصى درجات الأمان والخصوصية، أو للاستخدام العام حتى يتمكن المزيد من الأشخاص من الاستمتاع ببرنامج إكس براوزر سينك.</p><p><strong>مهم:</strong> يتم تشغيل خدمات إكس براوزر سينك بشكل مستقل من قبل المتطوعين. لا يتحمل مسؤول الخدمة أي مسؤولية عن بياناتك، لذا يرجى تذكر إجراء نسخ احتياطية بانتظام.</p>"
+      },
+      "Shortcuts": {
+        "key": "View_Help_Shortcuts",
+        "default": "<h4>استخدم الاختصارات!</h4><p>للبحث في الإشارات المرجعية الخاصة بك بسرعة، استخدم اختصار لوحة المفاتيح الافتراضي (كنترول + مسافة) لتنشيط الإضافة، ثم اضغط ببساطة على إنتر لعرض الإشارات المرجعية الأخيرة أو ابدأ الكتابة للبحث.</p><p>لتغيير الاختصار, إذهب الى:<br>chrome://extensions/shortcuts<br>وغير الاختصارات المتاحة الخاصة بإكس براوزر سينك.</p>",
+        "brave": "<h4>استخدم الاختصارات!</h4><p>للبحث في الإشارات المرجعية الخاصة بك بسرعة، استخدم اختصار لوحة المفاتيح الافتراضي (كنترول + مسافة) لتنشيط الإضافة، ثم اضغط ببساطة على إنتر لعرض الإشارات المرجعية الأخيرة أو ابدأ الكتابة للبحث.</p><p>لتغيير الاختصار, إذهب الى:<br>brave://extensions/shortcuts<br>وغير الاختصارات المتاحة الخاصة بإكس براوزر سينك.</p>",
+        "edge": "<h4>استخدم الاختصارات!</h4><p>للبحث في الإشارات المرجعية الخاصة بك بسرعة، استخدم اختصار لوحة المفاتيح الافتراضي (كنترول + مسافة) لتنشيط الإضافة، ثم اضغط ببساطة على إنتر لعرض الإشارات المرجعية الأخيرة أو ابدأ الكتابة للبحث.</p><p>لتغيير الاختصار, إذهب الى:<br>edge://extensions/shortcuts<br>وغير الاختصارات المتاحة الخاصة بإكس براوزر سينك.</p>",
+        "firefox": "<h4>استخدم الاختصارات!</h4><p>للبحث في الإشارات المرجعية الخاصة بك بسرعة، استخدم اختصار لوحة المفاتيح الافتراضي (كنترول + مسافة) لتنشيط الإضافة، ثم اضغط ببساطة على إنتر لعرض الإشارات المرجعية الأخيرة أو ابدأ الكتابة للبحث.</p><p>لتغيير الاختصار, إذهب الى:<br>about:addons<br>وانقر على <br>“Manage Extension Shortcuts”<br> في قائمة الإعدادات وقم بتغيير الاختصارات المتاحة الخاصة بإكس براوزر سينك.</p>"
+      },
+      "SyncId": {
+        "key": "View_Help_SyncId",
+        "default": "<h4>رمز المزامنة الخاص بك</h4><p>يضمن إكس براوزر سينك خصوصيتك لأنه لا يجمع أي بيانات شخصية على الإطلاق ويتم تشفير بيانات المتصفح الخاص بك قبل مزامنتها. للتعريف ببياناتك المتزامنة، يتم تزويدك برمز مزامنة متخفي يمكن استخدامه مع كلمة المرور الخاصة بك لمزامنة بياناتك على المتصفحات والأجهزة الأخرى.</p><p>تذكر أن رمز المزامنة الخاص بك سيعمل فقط مع خدمة إكس براوزر سينك التي تم إنشاؤها من خلالها، إذا قمت بالتبديل إلى خدمة إكس براوزر سينك مختلفة، فيجب عليك إنشاء مزامنة جديدة أو استخدام رمز مزامنة حالى تم إنشاؤه عند المزامنة مسبقًا مع تلك الخدمة.</p><p>في أي وقت تتم فيه المزامنة، يمكنك عرض رمز المزامنة الخاص بك في لوحة الإعدادات، انقر عليه للكشف عن رمز الاستجابة السريعة العملي لمسحه عند المزامنة على الهواتف المحمولة.</p>"
+      },
+      "Welcome": {
+        "key": "View_Help_Welcome",
+        "default": "<h4>مرحباً بك في إكس براوزر سينك!</h4><p>إكس براوزر سينك هو بديل مجاني ومفتوح المصدر لخدمات مزامنة المتصفح التي تقدمها كوكل وموزيلا وأوبيرا وغيرها، ويحترم خصوصيتك ويمنحك إخفاء هوية كامل (تحقق من <a href='https://link.xbrowsersync.org/www' class='new-tab'>الموقع الالكتروني</a> لمزيد من المعلومات).</p><p>أقضِ لحظة لقراءة دليل المساعدة هذا للتعرف على إكس براوزر سينك، باستخدام روابط الترحيل أدناه أو مفاتيح الأسهم للتنقل بين الصفحات.</p><p>يرجى الملاحظة: يقوم إكس براوزر سينك حاليًا بمزامنة الإشارات المرجعية فقط. ستتم إضافة مزامنة بيانات متصفح إضافية في الإصدارات المستقبلية، تحقق من حالة التطوير <a href='https://link.xbrowsersync.org/roadmap' class='new-tab'>بخريطة الأهداف</a> لمعرفة ما تم تخطيطة.</p>",
+        "android": "<h4>مرحباً بك في إكس براوزر سينك!</h4><p>إكس براوزر سينك هو بديل مجاني ومفتوح المصدر لخدمات مزامنة المتصفح التي تقدمها كوكل وموزيلا وأوبيرا وغيرها، ويحترم خصوصيتك ويمنحك إخفاء هوية كامل (تحقق من <a href='https://link.xbrowsersync.org/www' class='new-tab'>الموقع الالكتروني</a> لمزيد من المعلومات).</p><p>أقضِ لحظة لقراءة دليل المساعدة هذا للتعرف على إكس براوزر سينك، باستخدام روابط الترحيل أدناه أو السحب على الشاشة للتنقل بين الصفحات.</p><p>يرجى الملاحظة: يقوم إكس براوزر سينك حاليًا بمزامنة الإشارات المرجعية فقط. ستتم إضافة مزامنة بيانات متصفح إضافية في الإصدارات المستقبلية، تحقق من حالة التطوير <a href='https://link.xbrowsersync.org/roadmap' class='new-tab'>بخريطة الأهداف</a> لمعرفة ما تم تخطيطة.</p>"
+      }
+    },
+    "Login": {
+      "GetSyncId": {
+        "Title": {
+          "key": "View_Login_GetSyncId_Title",
+          "default": "أتحتاج إلى رمز مزامنة؟"
+        },
+        "Content": {
+          "key": "View_Login_GetSyncId_Content",
+          "default": "قم بتنزيل إضافة متصفح سطح المكتب إكس براوزر سينك وأنشئ مزامنة جديدة للوصول إلى إشاراتك المرجعية هنا."
+        }
+      },
+      "Password": {
+        "Confirm": {
+          "key": "View_Login_Password_Confirm",
+          "default": "تأكيد كلمة المرور"
+        },
+        "Existing": {
+          "key": "View_Login_Password_Existing",
+          "default": "كلمة مرور التشفير خاصتك"
+        },
+        "Label": {
+          "key": "View_Login_Password_Label",
+          "default": "كلمة مرور التشفير"
+        },
+        "New": {
+          "key": "View_Login_Password_New",
+          "default": "أدخل كلمة مرور التشفير"
+        },
+        "Show": {
+          "key": "View_Login_Password_Show",
+          "default": "عرض كلمة المرور"
+        }
+      },
+      "Scan": {
+        "Title": {
+          "key": "View_Login_Scan_Title",
+          "default": "اتصل بالمزامنة خاصتك"
+        },
+        "Content": {
+          "key": "View_Login_Scan_Content",
+          "default": "افتح إكس براوزر سينك على متصفح سطح المكتب، واذهب إلى لوحة الإعدادات وانقر على رمز المزامنة لعرض رمز الاستجابة السريعة الذي يمكنك مسحه هنا."
+        },
+        "ScanCode": {
+          "key": "View_Login_Scan_ScanCode",
+          "default": "مسح الرمز"
+        },
+        "ManualEntry": {
+          "key": "View_Login_Scan_ManualEntry",
+          "default": "أدخل تفاصيل المزامنة يدوياً"
+        }
+      },
+      "Service": {
+        "ApiVersion": {
+          "key": "View_Login_Service_ApiVersion",
+          "default": "إصدار إيه بي آي"
+        },
+        "Confirm": {
+          "key": "View_Login_Service_Confirm",
+          "default": "المزامنة مع هذه الخدمة؟"
+        },
+        "Location": {
+          "key": "View_Login_Service_Location",
+          "default": "الموقع"
+        },
+        "MaxSyncSize": {
+          "key": "View_Login_Service_MaxSyncSize",
+          "default": "حجم المزامنة الأقصى"
+        },
+        "Selected": {
+          "key": "View_Login_Service_Selected",
+          "default": "مزامناً مع"
+        },
+        "Status": {
+          "key": "View_Login_Service_Status",
+          "default": "الحالة"
+        },
+        "Update": {
+          "Label": {
+            "key": "View_Login_Service_Update_Label",
+            "default": "عنوان خدمه إكس براوزر سينك"
+          },
+          "Description": {
+            "key": "View_Login_Service_Update_Description",
+            "default": "أدخل عنوان يو آر إل لخدمة إكس براوزر سينك بديلة. تصفح قائمة خدمات إكس براوزر سينك العامة <a href='https://link.xbrowsersync.org/service-list' class='new-tab'>هنا</a>."
+          },
+          "Button": {
+            "key": "View_Login_Service_Update_Button",
+            "default": "تبديل الخدمة"
+          },
+          "Required": {
+            "key": "View_Login_Service_Update_Required",
+            "default": "مطلوب عنوان يو آر إل"
+          },
+          "InvalidService": {
+            "key": "View_Login_Service_Update_InvalidService",
+            "default": "خدمة إكس براوزر سينك غير صحيحة"
+          },
+          "InvalidUrl": {
+            "key": "View_Login_Service_Update_InvalidUrl",
+            "default": "يو آر إل غير صحيح"
+          },
+          "Failed": {
+            "key": "View_Login_Service_Update_Failed",
+            "default": "فشل الإتصال بالخدمة"
+          },
+          "NotSupported": {
+            "key": "View_Login_Service_Update_Failed_NotSupported",
+            "default": "هذه الخدمة تعمل بإصدار إيه بي آي غير مدعوم"
+          }
+        },
+        "Warning": {
+          "key": "View_Login_Service_Warning",
+          "default": "<strong>مهم:</strong> يتم تشغيل خدمات إكس براوزر سينك بشكل مستقل من قبل المتطوعين. لا يتحمل مسؤول الخدمة أي مسؤولية عن بياناتك، لذا يرجى تذكر إجراء نسخ احتياطية بانتظام."
+        }
+      },
+      "Sync": {
+        "Confirm": {
+          "Title": {
+            "key": "View_Login_Sync_Confirm_Title",
+            "default": "هل أنت متأكد؟"
+          },
+          "Content": {
+            "key": "View_Login_Sync_Confirm_Content",
+            "default": "سيحذف إكس براوزر سينك جميع بيانات الإشارات المرجعية المحلية قبل استعادة الإشارات المرجعية المتزامنة. تريد المتابعة؟"
+          }
+        },
+        "DisableOthers": {
+          "Title": {
+            "key": "View_Login_Sync_DisableOthers_Title",
+            "default": "تعطيل أدوات مزامنة الإشارة المرجعية"
+          },
+          "Content": {
+            "key": "View_Login_Sync_DisableOthers_Content",
+            "default": "مزامنة بيانات المتصفح الخاص بك مع إكس براوزر سينك أثناء استخدام أدوات مزامنة أخرى (<a href='https://link.xbrowsersync.org/chrome-sync' class='new-tab'>كمزامنة جوجل كروم</a>) يمكن أن يسبب التكرار وربما تلف البيانات. يرجى إلغاء تفعيلها قبل المتابعة.",
+            "brave": "مزامنة بيانات المتصفح الخاص بك مع إكس براوزر سينك أثناء استخدام أدوات مزامنة أخرى (<a href='https://link.xbrowsersync.org/brave-sync' class='new-tab'>كمزامنة متصفح بريف</a>) يمكن أن يسبب التكرار وربما تلف البيانات. يرجى إلغاء تفعيلها قبل المتابعة.",
+            "edge": "مزامنة بيانات المتصفح الخاص بك مع إكس براوزر سينك أثناء استخدام أدوات مزامنة أخرى (<a href='https://link.xbrowsersync.org/edge-sync' class='new-tab'>كمزامنة متصفح إيدج</a>) يمكن أن يسبب التكرار وربما تلف البيانات. يرجى إلغاء تفعيلها قبل المتابعة.",
+            "firefox": "مزامنة بيانات المتصفح الخاص بك مع إكس براوزر سينك أثناء استخدام أدوات مزامنة أخرى (<a href='https://link.xbrowsersync.org/firefox-sync' class='new-tab'>كمزامنة متصفح فايرفُكس</a>) يمكن أن يسبب التكرار وربما تلف البيانات. يرجى إلغاء تفعيلها قبل المتابعة."
+          }
+        },
+        "Enable": {
+          "key": "View_Login_Sync_Enable",
+          "default": "مزامنة"
+        },
+        "New": {
+          "key": "View_Login_Sync_New",
+          "default": "إنشاء مزامنة جديدة"
+        },
+        "UpgradeReady": {
+          "Title": {
+            "key": "View_Login_Sync_UpgradeReady_Title",
+            "default": "مستعد/ة لترقية المزامنة؟"
+          },
+          "Content": {
+            "key": "View_Login_Sync_UpgradeReady_Content",
+            "default": "<p>يجب ترقية المزامنة قبل اجرائها مع هذا الإصدار من إكس براوزر سينك. بعد الترقية، لن تتمكن من المزامنة مع أي إصدارات سابقة من إكس براوزر سينك.</p><p>تأكد من تحديث إكس براوزر سينك على جميع الأجهزة المتزامنة قبل المتابعة. هل أنت جاهز/ة للمتابعة؟</p>"
+          }
+        },
+        "UpgradeRequired": {
+          "Title": {
+            "key": "View_Login_Sync_UpgradeRequired_Title",
+            "default": "ترقية المزامنة"
+          },
+          "Content": {
+            "key": "View_Login_Sync_UpgradeRequired_Content",
+            "default": "<p>يجب ترقية المزامنة قبل اجرائها مع هذا الإصدار من إكس براوزر سينك.</p><p> استخدم إضافة إكس براوزر سينك لمتصفح سطح المكتب لترقية المزامنة ثم أعد محاولة المزامنة هنا.</p>"
+          }
+        }
+      },
+      "SyncId": {
+        "Description": {
+          "key": "View_Login_SyncId_Description",
+          "default": "رمز المزامنة الخاص بك"
+        },
+        "Existing": {
+          "key": "View_Login_SyncId_Existing",
+          "default": "ألديك بالفعل رمز مزامنة؟"
+        },
+        "Invalid": {
+          "key": "View_Login_SyncId_Invalid",
+          "default": "رمز مزامنة غير صحيح"
+        },
+        "Label": {
+          "key": "View_Login_SyncId_Label",
+          "default": "الرمز"
+        },
+        "New": {
+          "key": "View_Login_SyncId_New",
+          "default": "احصل على رمز مزامنة"
+        }
+      }
+    },
+    "Permissions": {
+      "Title": {
+        "key": "View_Permissions_Title",
+        "default": "الصلاحيات الاختيارية"
+      },
+      "Content": {
+        "key": "View_Permissions_Content",
+        "default": "<p>يقوم إكس براوزر سينك تلقائيًا بإثراء الإشارات المرجعية المضافة باستخدام زر إضافة إشارة مرجعية بالمتصفح بالبيانات الوصفية المتاحة. لتمكين هذا، يحتاج إكس براوزر سينك <a href='https://link.xbrowsersync.org/optional-perms-faq' class='new-tab'>صلاحيات إضافية</a> ليتمكن من قراءة بيانات مواقع الويب التي تمت زيارته.</p><p>يُرجى توضيح في حال طُلب منك ما إذا كنت سعيدًا بمنح هذه الصلاحيات، يمكنك إضافة الأذونات أو إزالتها في أي وقت في لوحة الإعدادات.</p>"
+      }
+    },
+    "Scan": {
+      "Title": {
+        "key": "View_Scan_Title",
+        "default": "مسح رمز الاستجابة السريعة الخاص بمزامنتك"
+      },
+      "ToggleLight": {
+        "key": "View_Scan_ToggleLight",
+        "default": "تشغيل/ايقاف الضوء"
+      }
+    },
+    "Search": {
+      "BookmarkTree": {
+        "key": "View_Search_BookmarkTree",
+        "default": "عرض مجلدات الإشارات المرجعية"
+      },
+      "Clear": {
+        "key": "View_Search_Clear",
+        "default": "محو"
+      },
+      "FolderEmpty": {
+        "key": "View_Search_FolderEmpty",
+        "default": "المجلد فارغ"
+      },
+      "NoBookmarks": {
+        "key": "View_Search_NoBookmarks",
+        "default": "ليس لديك أية إشارات مرجعية، اذهب لإضافة البعض!"
+      },
+      "NoResults": {
+        "key": "View_Search_NoResults",
+        "default": "لا توجد إشارات مرجعية"
+      },
+      "Placeholder": {
+        "key": "View_Search_Placeholder",
+        "default": "اضغط إنتر أو ابحث عن الإشارات المرجعية",
+        "android": "البحث عن الإشارات المرجعية"
+      },
+      "Pulling": {
+        "key": "View_Search_Pulling",
+        "default": "اسحب لأسفل للمزامنة"
+      },
+      "Pulled": {
+        "key": "View_Search_Pulled",
+        "default": "أفلِت للمزامنة"
+      },
+      "SearchResults": {
+        "key": "View_Search_SearchResults",
+        "default": "عرض نتائج البحث"
+      }
+    },
+    "Settings": {
+      "BackupRestore": {
+        "Title": {
+          "key": "View_Settings_BackupRestore_Title",
+          "default": "النسخ الاحتياطي واستعادته"
+        },
+        "AutoBackup": {
+          "Title": {
+            "key": "View_Settings_BackupRestore_AutoBackup_Title",
+            "default": "النسخ الاحتياطي التلقائي"
+          },
+          "Description": {
+            "key": "View_Settings_BackupRestore_AutoBackup_Description",
+            "default": "تحميل النسخ الاحتياطي تلقائياً في مواعيد."
+          },
+          "RunsAt": {
+            "key": "View_Settings_BackupRestore_AutoBackup_RunsAt",
+            "default": "النسخ الاحتياطي يعمل خلال"
+          },
+          "Every": {
+            "key": "View_Settings_BackupRestore_AutoBackup_Every",
+            "default": "كل"
+          },
+          "Numbers": {
+            "Single": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Single",
+              "default": "واحد"
+            },
+            "Two": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Two",
+              "default": "اثنان"
+            },
+            "Three": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Three",
+              "default": "ثلاثة"
+            },
+            "Four": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Four",
+              "default": "أربعة"
+            },
+            "Five": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Five",
+              "default": "خمسة"
+            },
+            "Six": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Six",
+              "default": "ستة"
+            },
+            "Seven": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Seven",
+              "default": "سبعة"
+            },
+            "Eight": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Eight",
+              "default": "ثمانية"
+            },
+            "Nine": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Nine",
+              "default": "تسعة"
+            },
+            "Ten": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Ten",
+              "default": "عشرة"
+            },
+            "Eleven": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Eleven",
+              "default": "أحد عشر"
+            },
+            "Twelve": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Numbers_Twelve",
+              "default": "اثني عشر"
+            }
+          },
+          "Units": {
+            "Day": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Units_Day",
+              "default": "يوم/أيام"
+            },
+            "Week": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Units_Week",
+              "default": "أسبوع/أسابيع"
+            },
+            "Month": {
+              "key": "View_Settings_BackupRestore_AutoBackup_Units_Month",
+              "default": "شهر/شهور"
+            }
+          },
+          "Confirmation": {
+            "key": "View_Settings_BackupRestore_AutoBackup_Confirmation",
+            "default": "لمنع نافذة \"حفظ باسم..\" من الظهور عند تحميل النسخ الاحتياطية، قم بإلغاء تفعيل إعداد المتصفح: \"اسأل أين تحفظ كل ملف قبل التنزيل\"."
+          }
+        },
+        "Backup": {
+          "Title": {
+            "key": "View_Settings_BackupRestore_Backup_Title",
+            "default": "النسخ الإحتياطي"
+          },
+          "Button": {
+            "key": "View_Settings_BackupRestore_Backup_Button",
+            "default": "تحميل نسخة احتياطية"
+          },
+          "Local": {
+            "key": "View_Settings_BackupRestore_Backup_Local",
+            "default": "قم بنسخ بيانات المتصفح المحلية إلى ملف."
+          },
+          "Synced": {
+            "key": "View_Settings_BackupRestore_Backup_Synced",
+            "default": "قم بحفظ البيانات المتزامنة احتياطياً بملف."
+          }
+        },
+        "Restore": {
+          "Title": {
+            "key": "View_Settings_BackupRestore_Restore_Title",
+            "default": "الاستعادة"
+          },
+          "Button": {
+            "key": "View_Settings_BackupRestore_Restore_Button",
+            "default": "استعادة من نسخة احتياطية"
+          },
+          "Local": {
+            "Description": {
+              "key": "View_Settings_BackupRestore_Restore_Local_Description",
+              "default": "استعادة بيانات المتصفح المحلية من نسخة احتياطية."
+            },
+            "Confirm": {
+              "key": "View_Settings_BackupRestore_Restore_Local_Confirm",
+              "default": "<p>نظرًا لأن المزامنة غير مفعلة حاليًا، فإن البيانات التي يتم استعادتها ستحل محل بيانات المتصفح المحلية.</p><p>موافق/ة للمتابعة؟</p>"
+            }
+          },
+          "Synced": {
+            "Description": {
+              "key": "View_Settings_BackupRestore_Restore_Synced_Description",
+              "default": "استعادة بيانات المتصفح المتزامنة من نسخة احتياطية."
+            },
+            "Confirm": {
+              "key": "View_Settings_BackupRestore_Restore_Synced_Confirm",
+              "default": "<p>نظرًا لأن المزامنة مفعلة حاليًا، فإن البيانات التي يجري استعادتها ستحل محل البيانات المتزامنة بالحال.</p><p>لاستعادة البيانات إلى المتصفح المحلي فقط، قم بتعطيل المزامنة قبل الاستعادة.</p><p>موافق/ة للمتابعة؟</p>",
+              "android": "<p>ستحل البيانات التي تتم استعادتها محل البيانات المتزامنة.</p><p>موافق/ة للمتابعة؟</p>"
+            }
+          },
+          "Done": {
+            "key": "View_Settings_BackupRestore_Restore_Done",
+            "default": "تمت استعادة النسخة الاحتياطية."
+          },
+          "SelectFile": {
+            "Button": {
+              "key": "View_Settings_BackupRestore_Restore_SelectFile_Button",
+              "default": "حدد ملف"
+            },
+            "Placeholder": {
+              "key": "View_Settings_BackupRestore_Restore_SelectFile_Placeholder",
+              "default": "حدد ملف نسخة احتياطية للاستعادة"
+            }
+          },
+          "Copy": {
+            "key": "View_Settings_BackupRestore_Restore_Copy",
+            "default": "نسخ محتويات ملف النسخ الاحتياطي لاستعادة البيانات."
+          },
+          "Paste": {
+            "key": "View_Settings_BackupRestore_Restore_Paste",
+            "default": "لصق بيانات النسخ الاحتياطي"
+          },
+          "RestoreData": {
+            "key": "View_Settings_BackupRestore_Restore_RestoreData",
+            "default": "استعادة البيانات"
+          },
+          "Invalid": {
+            "key": "View_Settings_BackupRestore_Restore_Invalid",
+            "default": "بيانات النسخ الاحتياطي لإكس براوزر سينك غير صحيحة"
+          }
+        },
+        "Reset": {
+          "Confirm": {
+            "key": "View_Settings_BackupRestore_Reset_Confirm",
+            "default": "<p>إذا تابعت/ي، سيتم تعطيل المزامنة وستتم إعادة تعيين بيانات المتصفح المحلي كما كانت عند تثبيت إكس براوزر سينك في {date}.</p><p>موافق/ة للمتابعة؟</p>"
+          },
+          "Button": {
+            "key": "View_Settings_BackupRestore_Reset_Button",
+            "default": "إعادة ضبط البيانات المحلية"
+          },
+          "Done": {
+            "key": "View_Settings_BackupRestore_Reset_Done",
+            "default": "تم إعادة ظبط بيانات المتصفح المحلية إلى حالة التثبيت الأولية."
+          },
+          "Unavailable": {
+            "key": "View_Settings_BackupRestore_Reset_Unavailable",
+            "default": "بيانات حالة التثبيت غير متوفرة، غير قادر على إعادة الظبط."
+          }
+        }
+      },
+      "Issues": {
+        "Title": {
+          "key": "View_Settings_Issues_Title",
+          "default": "المساعدة والدعم"
+        },
+        "Help": {
+          "Title": {
+            "key": "View_Settings_Issues_Help_Title",
+            "default": "دليل المساعدة"
+          },
+          "Description": {
+            "key": "View_Settings_Issues_Help_Description",
+            "default": "هل لديك سؤال أو تواجه مشكلة؟ تأكد من القراءة من خلال دليل المساعدة، وعلى غير ذلك قد تكون الإجابة في قسم الأسئلة الشائعة."
+          },
+          "ViewFaqs": {
+            "key": "View_Settings_Issues_Help_ViewFaqs",
+            "default": "عرض الأسئلة الشائعة"
+          }
+        },
+        "Tracker": {
+          "Title": {
+            "key": "View_Settings_Issues_Tracker_Title",
+            "default": "الدعم"
+          },
+          "Description": {
+            "key": "View_Settings_Issues_Tracker_Description",
+            "default": "أتحتاج دعم؟ استخدم متتبع المشاكل للإبلاغ عن خطأ أو طلب ميزة."
+          },
+          "Report": {
+            "key": "View_Settings_Issues_Tracker_Report",
+            "default": "عرض متتبع المشاكل"
+          }
+        },
+        "Log": {
+          "Title": {
+            "key": "View_Settings_Issues_Log_Title",
+            "default": "سجل التطبيق"
+          },
+          "Description": {
+            "key": "View_Settings_Issues_Log_Description",
+            "default": "قم بتنزيل وإرفاق سجل التطبيق عند تسجيل المشكلة."
+          },
+          "Clear": {
+            "key": "View_Settings_Issues_Log_Clear",
+            "default": "حذف السجل"
+          },
+          "Download": {
+            "key": "View_Settings_Issues_Log_Download",
+            "default": "تنزيل السجل"
+          },
+          "Size": {
+            "key": "View_Settings_Issues_Log_Size",
+            "default": "حجم السجل الحالي"
+          }
+        }
+      },
+      "Permissions": {
+        "Title": {
+          "key": "View_Settings_Permissions_Title",
+          "default": "الصلاحيات الاختيارية"
+        },
+        "Add": {
+          "key": "View_Settings_Permissions_Add",
+          "default": "منح الصلاحيات"
+        },
+        "Granted": {
+          "key": "View_Settings_Permissions_Granted",
+          "default": "تم المنح"
+        },
+        "NotGranted": {
+          "key": "View_Settings_Permissions_NotGranted",
+          "default": "غير ممنوح"
+        },
+        "Read": {
+          "Title": {
+            "key": "View_Settings_Permissions_Read_Title",
+            "default": "قراءة بيانات الموقع"
+          },
+          "Description": {
+            "key": "View_Settings_Permissions_Read_Description",
+            "default": "مطلوب لإضافة البيانات الوصفية تلقائيًا إلى الإشارات المرجعية عند استخدام زر \"إشارة مرجعية لهذه الصفحة\" في المتصفح (<a href='https://link.xbrowsersync.org/optional-perms-faq' class='new-tab'>مزيد من المعلومات</a>)."
+          }
+        },
+        "Remove": {
+          "key": "View_Settings_Permissions_Remove",
+          "default": "إزالة الصلاحيات"
+        }
+      },
+      "Prefs": {
+        "AutoFetchMetadata": {
+          "Label": {
+            "key": "View_Settings_Prefs_AutoFetchMetadata_Label",
+            "default": "إحضار البيانات الوصفية للإشارات تلقائياً"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_AutoFetchMetadata_Description",
+            "default": "إحضار البيانات الوصفية للإشارات تلقائياً عن إضافتها."
+          }
+        },
+        "CheckForAppUpdates": {
+          "Label": {
+            "key": "View_Settings_Prefs_CheckForAppUpdates_Label",
+            "default": "تحقق تحديثات التطبيق"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_CheckForAppUpdates_Description",
+            "default": "الإعلام عند توفر إصدار جديد من إكس براوزر سينك."
+          }
+        },
+        "DarkMode": {
+          "Label": {
+            "key": "View_Settings_Prefs_DarkMode_Label",
+            "default": "تفعيل الوضع المظلم"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_DarkMode_Description",
+            "default": "مثالي للاستخدام في البيئات منخفضة الضوء."
+          }
+        },
+        "DefaultToFolderView": {
+          "Label": {
+            "key": "View_Settings_Prefs_DefaultToFolderView_Label",
+            "default": "عرض مجلدات الإشارات المرجعية"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_DefaultToFolderView_Description",
+            "default": "عرض مجلدات الإشارات المرجعية افتراضياً."
+          }
+        },
+        "SearchBar": {
+          "Label": {
+            "key": "View_Settings_Prefs_SearchBar_Label",
+            "default": "تغيير موضع شريط البحث"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_SearchBar_Description",
+            "default": "إظهار شريط البحث تحت النتائج."
+          }
+        },
+        "SyncToolbar": {
+          "Label": {
+            "key": "View_Settings_Prefs_SyncToolbar_Label",
+            "default": "مزامنة شريط أدوات العلامات المرجعية"
+          },
+          "Description": {
+            "key": "View_Settings_Prefs_SyncToolbar_Description",
+            "default": "الغِ تفعيل هذا الإعداد لعرض إشارات مرجعية مختلفة بشريط الأدوات بكل متصفح متزامن."
+          },
+          "Confirmation": {
+            "key": "View_Settings_Prefs_SyncToolbar_Confirmation",
+            "default": "<p>سيؤدي تفعيل هذا الإعداد إلى استبدال الإشارات المرجعية الموجودة حاليًا في شريط أدوات الإشارات المرجعية بإشاراتك المرجعية المتزامنة.</p><p>موافق/ة للمتابعة؟</p>"
+          }
+        },
+        "Title": {
+          "key": "View_Settings_Prefs_Title",
+          "default": "الإعدادات"
+        }
+      },
+      "Sync": {
+        "Title": {
+          "key": "View_Settings_Sync_Title",
+          "default": "المزامنة"
+        },
+        "Disable": {
+          "key": "View_Settings_Sync_Disable",
+          "default": "تعطيل المزامنة"
+        },
+        "Id": {
+          "Label": {
+            "key": "View_Settings_Sync_Id_Label",
+            "default": "رمز المزامنة"
+          },
+          "Description": {
+            "key": "View_Settings_Sync_Id_Description",
+            "default": "استخدم رمز المزامنة الخاص بك للاتصال ببياناتك المتزامنة على الأجهزة الأخرى (انقر للكشف عن رمز الاستجابة السريعة)."
+          }
+        },
+        "Data": {
+          "Label": {
+            "key": "View_Settings_Sync_Data_Label",
+            "default": "استخدام البيانات"
+          },
+          "Description": {
+            "key": "View_Settings_Sync_Data_Description",
+            "default": "كمية بيانات المزامنة التي تسمح بها الخدمة التي تستخدمها."
+          }
+        },
+        "Service": {
+          "key": "View_Settings_Sync_Service",
+          "default": "الخدمة"
+        },
+        "UpdatesAvailable": {
+          "False": {
+            "key": "View_Settings_Sync_UpdatesAvailable_False",
+            "default": "آخر مزامنة {date}"
+          },
+          "True": {
+            "key": "View_Settings_Sync_UpdatesAvailable_True",
+            "default": "جاهز للمزامنة (بميعاد {date})"
+          },
+          "Sync": {
+            "key": "View_Settings_Sync_UpdatesAvailable_Sync",
+            "default": "مزامنة الآن"
+          }
+        },
+        "Qr": {
+          "Description": {
+            "key": "View_Settings_Sync_Qr_Description",
+            "default": "قم بمسح رمز الاستجابة السريعة هذا باستخدام تطبيق إكس براوزر سينك للأندرويد للاتصال ببياناتك المتزامنة."
+          },
+          "Show": {
+            "key": "View_Settings_Sync_Qr_Show",
+            "default": "عرض رمز الاستجابة السريعة"
+          },
+          "Copy": {
+            "key": "View_Settings_Sync_Qr_Copy",
+            "default": "نسخ رمز المزامنة إلى الحافظة"
+          },
+          "Copied": {
+            "key": "View_Settings_Sync_Qr_Copied",
+            "default": "تم النسخ!"
+          }
+        }
+      },
+      "NotAvailable": {
+        "key": "View_Settings_NotAvailable",
+        "default": "الإعدادات متاحة عند تمكين المزامنة."
+      },
+      "FileDownloaded": {
+        "key": "View_Settings_FileDownloaded",
+        "default": "تم حفظ الملف في التنزيلات"
+      },
+      "Support": {
+        "key": "View_Settings_Support",
+        "default": "ادعم إكس براوزر سينك"
+      }
+    },
+    "Support": {
+      "Title": {
+        "key": "View_Support_Title",
+        "default": "ادعم إكس براوزر سينك!"
+      },
+      "Content": {
+        "key": "View_Support_Content",
+        "default": "<p>نريد أن نجعل إكس براوزر سينك الأداة الأولى لمزامنة المتصفح، ولكن لا يزال هناك الكثير للقيام به:</p><ul><li>أضافة مزامنة علامات تبويب المتصفح وتاريخ التصفح</li><li>دعم جميع متصفحات سطح المكتب الرئيسية</li><li>الترجمة إلى لغات أخرى</li><li>و<a href='https://link.xbrowsersync.org/roadmap' class='new-tab'>المزيد</a>!</li></ul><p>فقط بدعمك يمكننا الاستمرار في تحسين إكس براوزر سينك والتأكد من أنه يظل فعال في حماية الخصوصية عبر الإنترنت وتعزيز الإنتاجية.</p>"
+      },
+      "Cryptos": {
+        "key": "View_Support_Cryptos",
+        "default": "العملات الرقمية"
+      },
+      "Liberapay": {
+        "key": "View_Support_Liberapay",
+        "default": "ليبرا باي"
+      },
+      "Patreon": {
+        "key": "View_Support_Patreon",
+        "default": "باتريون"
+      }
+    },
+    "SyncRemoved": {
+      "Title": {
+        "key": "View_SyncRemoved_Title",
+        "default": "لم يتم العثور على المزامنة"
+      },
+      "Content": {
+        "key": "View_SyncRemoved_Content",
+        "default": "<p>تعذر العثور على المزامنة الخاصة بك وربما تمت إزالتها بسبب عدم النشاط.</p><p>ستحتاج إلى إنشاء مزامنة جديدة، ولكن انقر أولاً فوق الزر بالأسفل لتنزيل نسخة احتياطية من بياناتك المتزامنة والتي يمكنك بعد ذلك استعادتها إلى المزامنة الجديدة.</p>"
+      }
+    },
+    "Updated": {
+      "Title": {
+        "key": "View_Updated_Title",
+        "default": "تم التحديث لـ"
+      },
+      "Content": {
+        "key": "View_Updated_Content",
+        "default": "<p>تم تحديث إكس براوزر سينك بأحدث الميزات والإصلاحات.</p><p>إذا كانت المزامنة مفعلة، فقد تم تعطيلها الآن ويجب أولاً ترقية المزامنة قبل اجرائها مع هذا الإصدار من إكس براوزر سينك. أعد تفعيل المزامنة لإكمال عملية الترقية.</p><p>لمزيد من التفاصيل حول التغييرات الواردة في هذا الإصدار، راجع ملاحظات الإصدار.</p>"
+      }
+    },
+    "Working": {
+      "Restoring": {
+        "key": "View_Working_Restoring",
+        "default": "جار الاستعادة"
+      },
+      "Resetting": {
+        "key": "View_Working_Resetting",
+        "default": "جار إعادة الضبط"
+      },
+      "Syncing": {
+        "key": "View_Working_Syncing",
+        "default": "جار المزامنة"
+      }
+    }
+  }
+}

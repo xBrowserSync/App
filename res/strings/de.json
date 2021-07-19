@@ -1235,10 +1235,6 @@
           }
         }
       },
-      "AppVersion": {
-        "key": "View_Settings_AppVersion",
-        "default": "Version"
-      },
       "NotAvailable": {
         "key": "View_Settings_NotAvailable",
         "default": "Einstellungen verfügbar, wenn die Synchronisation aktiviert ist."
